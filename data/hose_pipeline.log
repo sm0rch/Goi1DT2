@@ -1,0 +1,1925 @@
+2026-09-28 21:40:54,708 [INFO] Lấy danh sách cổ phiếu HOSE...
+2026-09-28 21:40:55,336 [INFO] HOSE candidates: 350 mã
+2026-09-28 21:40:55,338 [INFO] 
+📈 [1/4] Pull OHLCV cho 350 HOSE candidates...
+2026-09-28 21:40:56,224 [WARNING] ⚠️ Phiên bản cộng đồng: Dữ liệu OHLCV (1D) giới hạn tối đa 8 năm. Nâng cấp gói tài trợ để mở rộng giới hạn cho phân tích chuyên nghiệp: https://vnstocks.com/insiders-program
+⚠️ Community edition: OHLCV data (1D) limited to 8 years. Upgrade your plan to unlock full data limits for professional use: https://vnstocks.com/insiders-program
+2026-09-28 21:40:56,273 [INFO]   [   1/350] ✓ HLB   : 1,943 rows
+2026-09-28 21:40:58,520 [INFO]   [   2/350] ✓ VNZ   : 903 rows
+2026-09-28 21:41:00,301 [INFO]   [   3/350] ✓ CMF   : 1,905 rows
+2026-09-28 21:41:02,121 [INFO]   [   4/350] ✓ WCS   : 1,934 rows
+2026-09-28 21:41:03,901 [INFO]   [   5/350] ✓ VCF   : 1,965 rows
+2026-09-28 21:41:05,654 [INFO]   [   6/350] ✓ VE4   : 1,681 rows
+2026-09-28 21:41:07,421 [INFO]   [   7/350] ✓ IDP   : 1,369 rows
+2026-09-28 21:41:09,228 [INFO]   [   8/350] ✓ VIC   : 1,994 rows
+2026-09-28 21:41:11,010 [INFO]   [   9/350] ✓ STS   : 1,528 rows
+2026-09-28 21:41:12,812 [INFO]   [  10/350] ✓ AGX   : 1,974 rows
+2026-09-28 21:41:14,638 [INFO]   [  11/350] ✓ SLS   : 1,993 rows
+2026-09-28 21:41:16,444 [INFO]   [  12/350] ✓ NDC   : 1,938 rows
+2026-09-28 21:41:18,224 [INFO]   [  13/350] ✓ VGR   : 1,994 rows
+2026-09-28 21:41:20,047 [INFO]   [  14/350] ✓ BMP   : 1,994 rows
+2026-09-28 21:41:21,858 [INFO]   [  15/350] ✓ FRT   : 1,994 rows
+2026-09-28 21:41:53,457 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 21:42:25,577 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 21:42:28,368 [INFO]   [  16/350] ✓ MCH   : 1,989 rows
+2026-09-28 21:42:30,551 [INFO]   [  17/350] ✓ TVH   : 1,860 rows
+2026-09-28 21:43:02,142 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 21:43:04,799 [INFO]   [  18/350] ✓ DCV   : 142 rows
+2026-09-28 21:43:36,392 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 21:43:39,086 [INFO]   [  19/350] ✓ VFC   : 1,789 rows
+2026-09-28 21:44:10,682 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 21:44:13,503 [INFO]   [  20/350] ✓ VJC   : 1,994 rows
+2026-09-28 21:44:15,485 [INFO]   [  21/350] ✓ NTC   : 1,986 rows
+2026-09-28 21:44:17,295 [INFO]   [  22/350] ✓ PMC   : 1,989 rows
+2026-09-28 21:44:19,055 [INFO]   [  23/350] ✓ THD   : 1,566 rows
+2026-09-28 21:44:20,854 [INFO]   [  24/350] ✓ TBD   : 1,995 rows
+2026-09-28 21:44:22,651 [INFO]   [  25/350] ✓ HGM   : 1,994 rows
+2026-09-28 21:44:24,440 [INFO]   [  26/350] ✓ SGC   : 1,994 rows
+2026-09-28 21:44:26,239 [INFO]   [  27/350] ✓ KSV   : 1,987 rows
+2026-09-28 21:44:27,994 [INFO]   [  28/350] ✓ TIN   : 1,146 rows
+2026-09-28 21:44:29,751 [INFO]   [  29/350] ✓ GTD   : 1,651 rows
+2026-09-28 21:44:31,963 [INFO]   [  30/350] ✓ TTD   : 1,992 rows
+2026-09-28 21:45:03,552 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 21:45:06,069 [INFO]   [  31/350] ✓ GVT   : 1,975 rows
+2026-09-28 21:45:07,893 [INFO]   [  32/350] ✓ DHG   : 1,994 rows
+2026-09-28 21:45:09,699 [INFO]   [  33/350] ✓ VGI   : 1,994 rows
+2026-09-28 21:45:11,445 [INFO]   [  34/350] ✓ FCC   : 1,496 rows
+2026-09-28 21:45:13,279 [INFO]   [  35/350] ✓ VEF   : 1,993 rows
+2026-09-28 21:45:15,033 [INFO]   [  36/350] ✓ VVS   : 981 rows
+2026-09-28 21:45:16,841 [INFO]   [  37/350] ✓ PDN   : 1,994 rows
+2026-09-28 21:45:18,650 [INFO]   [  38/350] ✓ NCT   : 1,994 rows
+2026-09-28 21:45:20,426 [INFO]   [  39/350] ✓ TOS   : 1,260 rows
+2026-09-28 21:45:22,217 [INFO]   [  40/350] ✓ HHC   : 1,610 rows
+2026-09-28 21:45:24,466 [INFO]   [  41/350] ✓ GAS   : 1,994 rows
+2026-09-28 21:45:26,595 [INFO]   [  42/350] ✓ PLE   : 1,417 rows
+2026-09-28 21:45:58,119 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 21:46:00,816 [INFO]   [  43/350] ✓ VPL   : 345 rows
+2026-09-28 21:46:32,406 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 21:46:35,054 [INFO]   [  44/350] ✓ KSF   : 1,240 rows
+2026-09-28 21:46:37,210 [INFO]   [  45/350] ✓ PAT   : 1,067 rows
+2026-09-28 21:47:08,797 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 21:47:40,907 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 21:47:43,750 [INFO]   [  46/350] ✓ GMD   : 1,994 rows
+2026-09-28 21:47:45,850 [INFO]   [  47/350] ✓ DMX   : 35 rows
+2026-09-28 21:47:47,677 [INFO]   [  48/350] ✓ STB   : 1,994 rows
+2026-09-28 21:47:49,597 [INFO]   [  49/350] ✓ PGS   : 1,960 rows
+2026-09-28 21:47:51,410 [INFO]   [  50/350] ✓ RAL   : 1,994 rows
+2026-09-28 21:47:53,224 [INFO]   [  51/350] ✓ DVP   : 1,994 rows
+2026-09-28 21:47:54,992 [INFO]   [  52/350] ✓ GEE   : 1,119 rows
+2026-09-28 21:47:56,802 [INFO]   [  53/350] ✓ MWG   : 1,994 rows
+2026-09-28 21:47:58,641 [INFO]   [  54/350] ✓ CTR   : 1,993 rows
+2026-09-28 21:48:00,403 [INFO]   [  55/350] ✓ TED   : 1,068 rows
+2026-09-28 21:48:02,212 [INFO]   [  56/350] ✓ TMG   : 1,936 rows
+2026-09-28 21:48:04,037 [INFO]   [  57/350] ✓ HPP   : 1,980 rows
+2026-09-28 21:48:35,643 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 21:48:38,398 [INFO]   [  58/350] ✓ MSN   : 1,994 rows
+2026-09-28 21:48:40,615 [INFO]   [  59/350] ✓ VHM   : 1,994 rows
+2026-09-28 21:48:42,429 [INFO]   [  60/350] ✓ BVH   : 1,994 rows
+2026-09-28 21:48:44,246 [INFO]   [  61/350] ✓ FOX   : 1,994 rows
+2026-09-28 21:48:46,045 [INFO]   [  62/350] ✓ BTW   : 1,984 rows
+2026-09-28 21:48:47,817 [INFO]   [  63/350] ✓ SCG   : 1,356 rows
+2026-09-28 21:48:49,619 [INFO]   [  64/350] ✓ FOC   : 1,944 rows
+2026-09-28 21:48:51,407 [INFO]   [  65/350] ✓ MVN   : 1,986 rows
+2026-09-28 21:48:53,217 [INFO]   [  66/350] ✓ PVI   : 1,994 rows
+2026-09-28 21:48:55,021 [INFO]   [  67/350] ✓ LGC   : 1,934 rows
+2026-09-28 21:48:56,874 [INFO]   [  68/350] ✓ FPT   : 1,994 rows
+2026-09-28 21:48:58,646 [INFO]   [  69/350] ✓ SSH   : 1,232 rows
+2026-09-28 21:49:00,441 [INFO]   [  70/350] ✓ NET   : 1,988 rows
+2026-09-28 21:49:02,230 [INFO]   [  71/350] ✓ DTP   : 1,566 rows
+2026-09-28 21:49:04,433 [INFO]   [  72/350] ✓ AST   : 1,991 rows
+2026-09-28 21:49:06,247 [INFO]   [  73/350] ✓ NSC   : 1,982 rows
+2026-09-28 21:49:08,061 [INFO]   [  74/350] ✓ DP3   : 1,994 rows
+2026-09-28 21:49:09,868 [INFO]   [  75/350] ✓ VPI   : 1,994 rows
+2026-09-28 21:49:41,465 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 21:50:13,574 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 21:50:45,687 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 21:51:18,800 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 21:51:50,903 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 21:52:23,012 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 21:52:56,113 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 21:53:28,217 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 21:54:00,308 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 21:54:00,311 [WARNING] ✗ NHD: API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 21:54:31,917 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 21:55:04,032 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 21:55:36,140 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 21:56:09,238 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 21:56:41,355 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 21:56:44,112 [INFO]   [  77/350] ✓ S55   : 1,923 rows
+2026-09-28 21:56:46,309 [INFO]   [  78/350] ✓ TPS   : 1,928 rows
+2026-09-28 21:57:17,891 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 21:57:49,989 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 21:58:22,082 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 21:58:55,187 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 21:59:27,294 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 21:59:59,402 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:00:03,073 [INFO]   [  79/350] ✓ POB   : 1,552 rows
+2026-09-28 22:00:34,666 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:01:06,778 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:01:09,474 [INFO]   [  80/350] ✓ NNT   : 1,972 rows
+2026-09-28 22:01:11,744 [INFO]   [  81/350] ✓ VNM   : 1,994 rows
+2026-09-28 22:01:43,362 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:01:46,144 [INFO]   [  82/350] ✓ TDM   : 1,983 rows
+2026-09-28 22:02:17,756 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:02:49,855 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:03:21,963 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:03:55,080 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:03:57,772 [INFO]   [  83/350] ✓ GMA   : 1,163 rows
+2026-09-28 22:04:29,369 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:05:01,469 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:05:33,574 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:06:06,678 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:06:38,792 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:07:10,892 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:07:43,995 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:07:46,782 [INFO]   [  84/350] ✓ MSR   : 1,994 rows
+2026-09-28 22:08:18,384 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:08:21,112 [INFO]   [  85/350] ✓ VCR   : 1,847 rows
+2026-09-28 22:08:52,715 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:09:24,822 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:09:56,923 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:10:30,038 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:10:32,720 [INFO]   [  86/350] ✓ SAF   : 1,981 rows
+2026-09-28 22:11:04,316 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:11:36,422 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:12:08,530 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:12:41,635 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:13:13,740 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:13:45,844 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:13:49,587 [INFO]   [  87/350] ✓ CTD   : 1,994 rows
+2026-09-28 22:14:21,187 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:14:53,298 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:15:25,408 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:15:58,513 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:16:30,617 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:16:33,397 [INFO]   [  88/350] ✓ DMC   : 1,994 rows
+2026-09-28 22:17:05,000 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:17:37,120 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:18:09,210 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:18:42,312 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:18:45,016 [INFO]   [  89/350] ✓ VCB   : 1,994 rows
+2026-09-28 22:19:16,615 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:19:19,264 [INFO]   [  90/350] ✓ CNA   : 654 rows
+2026-09-28 22:19:21,285 [INFO]   [  91/350] ✓ SEA   : 1,994 rows
+2026-09-28 22:19:52,885 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:20:24,987 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:20:57,085 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:21:30,193 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:22:02,298 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:22:34,398 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:23:07,512 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:23:10,278 [INFO]   [  92/350] ✓ CLM   : 1,980 rows
+2026-09-28 22:23:41,875 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:24:13,979 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:24:46,087 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:25:19,196 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:25:51,312 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:26:23,421 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:26:56,536 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:27:28,646 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:28:00,755 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:28:00,759 [WARNING] ✗ F88: API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:28:32,359 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:29:04,492 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:29:36,609 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:29:40,468 [INFO]   [  94/350] ✓ DHT   : 1,994 rows
+2026-09-28 22:30:12,070 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:30:14,857 [INFO]   [  95/350] ✓ VGV   : 1,894 rows
+2026-09-28 22:30:46,456 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:31:18,556 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:31:50,657 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:32:23,764 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:32:55,913 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:33:28,018 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:34:01,107 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:34:33,202 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:35:05,306 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:35:05,307 [WARNING] ✗ WSB: API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:35:07,599 [INFO]   [  97/350] ✓ UIC   : 1,907 rows
+2026-09-28 22:35:39,206 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:36:11,316 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:36:43,421 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:37:16,527 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:37:48,627 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:38:20,732 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:38:53,835 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:39:25,948 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:39:58,050 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:39:58,051 [WARNING] ✗ SJS: API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:40:00,292 [INFO]   [  99/350] ✓ DHA   : 1,994 rows
+2026-09-28 22:40:31,890 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:41:03,993 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:41:36,094 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:42:09,202 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:42:11,930 [INFO]   [ 100/350] ✓ NTH   : 1,807 rows
+2026-09-28 22:42:43,525 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:42:46,220 [INFO]   [ 101/350] ✓ NTP   : 1,994 rows
+2026-09-28 22:43:17,821 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:43:20,606 [INFO]   [ 102/350] ✓ CLC   : 1,980 rows
+2026-09-28 22:43:22,576 [INFO]   [ 103/350] ✓ CNN   : 1,979 rows
+2026-09-28 22:43:24,354 [INFO]   [ 104/350] ✓ CCV   : 1,939 rows
+2026-09-28 22:43:26,142 [INFO]   [ 105/350] ✓ PHN   : 1,839 rows
+2026-09-28 22:43:27,959 [INFO]   [ 106/350] ✓ QNS   : 1,994 rows
+2026-09-28 22:43:29,755 [INFO]   [ 107/350] ✓ VXB   : 1,610 rows
+2026-09-28 22:43:31,551 [INFO]   [ 108/350] ✓ CKA   : 1,982 rows
+2026-09-28 22:43:33,391 [INFO]   [ 109/350] ✓ TLG   : 1,994 rows
+2026-09-28 22:43:35,237 [INFO]   [ 110/350] ✓ VTP   : 1,948 rows
+2026-09-28 22:43:37,069 [INFO]   [ 111/350] ✓ SGN   : 1,994 rows
+2026-09-28 22:43:38,854 [INFO]   [ 112/350] ✓ IN4   : 1,996 rows
+2026-09-28 22:43:40,644 [INFO]   [ 113/350] ✓ NFC   : 1,945 rows
+2026-09-28 22:43:42,989 [INFO]   [ 114/350] ✓ HAH   : 1,994 rows
+2026-09-28 22:43:44,770 [INFO]   [ 115/350] ✓ TET   : 1,946 rows
+2026-09-28 22:43:46,582 [INFO]   [ 116/350] ✓ VLB   : 1,994 rows
+2026-09-28 22:44:18,183 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:44:20,892 [INFO]   [ 117/350] ✓ DVW   : 1,997 rows
+2026-09-28 22:44:22,882 [INFO]   [ 118/350] ✓ KDC   : 1,994 rows
+2026-09-28 22:44:54,477 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:45:26,592 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:45:58,705 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:46:02,396 [INFO]   [ 119/350] ✓ AIG   : 466 rows
+2026-09-28 22:46:33,986 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:47:06,091 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:47:38,199 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:48:11,312 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:48:43,411 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:48:46,096 [INFO]   [ 120/350] ✓ ANI   : 19 rows
+2026-09-28 22:49:17,689 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:49:20,374 [INFO]   [ 121/350] ✓ DNC   : 1,990 rows
+2026-09-28 22:49:22,577 [INFO]   [ 122/350] ✓ QHD   : 1,880 rows
+2026-09-28 22:49:24,376 [INFO]   [ 123/350] ✓ SIP   : 1,822 rows
+2026-09-28 22:49:26,198 [INFO]   [ 124/350] ✓ ABT   : 1,987 rows
+2026-09-28 22:49:28,047 [INFO]   [ 125/350] ✓ VHC   : 1,994 rows
+2026-09-28 22:49:29,857 [INFO]   [ 126/350] ✓ TMP   : 1,991 rows
+2026-09-28 22:49:31,653 [INFO]   [ 127/350] ✓ DPH   : 1,865 rows
+2026-09-28 22:49:33,408 [INFO]   [ 128/350] ✓ ODE   : 1,173 rows
+2026-09-28 22:49:35,234 [INFO]   [ 129/350] ✓ BFC   : 1,994 rows
+2026-09-28 22:49:37,034 [INFO]   [ 130/350] ✓ DNH   : 1,928 rows
+2026-09-28 22:49:38,840 [INFO]   [ 131/350] ✓ PET   : 1,994 rows
+2026-09-28 22:49:40,636 [INFO]   [ 132/350] ✓ TDW   : 1,982 rows
+2026-09-28 22:49:42,435 [INFO]   [ 133/350] ✓ NAF   : 1,994 rows
+2026-09-28 22:49:44,147 [INFO]   [ 134/350] ✓ RGG   : 177 rows
+2026-09-28 22:50:15,739 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:50:47,844 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:51:19,960 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:51:23,720 [INFO]   [ 135/350] ✓ LHC   : 1,994 rows
+2026-09-28 22:51:25,592 [INFO]   [ 136/350] ✓ ARM   : 1,996 rows
+2026-09-28 22:51:27,394 [INFO]   [ 137/350] ✓ APF   : 1,994 rows
+2026-09-28 22:51:29,203 [INFO]   [ 138/350] ✓ DBD   : 1,994 rows
+2026-09-28 22:51:31,022 [INFO]   [ 139/350] ✓ PHP   : 1,986 rows
+2026-09-28 22:51:32,847 [INFO]   [ 140/350] ✓ LPB   : 1,984 rows
+2026-09-28 22:51:34,642 [INFO]   [ 141/350] ✓ DCL   : 1,994 rows
+2026-09-28 22:51:36,467 [INFO]   [ 142/350] ✓ REE   : 1,994 rows
+2026-09-28 22:51:38,251 [INFO]   [ 143/350] ✓ PEQ   : 1,932 rows
+2026-09-28 22:51:40,072 [INFO]   [ 144/350] ✓ DGW   : 1,994 rows
+2026-09-28 22:51:41,893 [INFO]   [ 145/350] ✓ SCS   : 1,994 rows
+2026-09-28 22:51:44,133 [INFO]   [ 146/350] ✓ HAM   : 1,936 rows
+2026-09-28 22:51:46,420 [INFO]   [ 147/350] ✓ SAB   : 1,994 rows
+2026-09-28 22:52:18,012 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:52:20,587 [INFO]   [ 148/350] ✓ PNG   : 1,961 rows
+2026-09-28 22:52:52,185 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:53:24,288 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:53:27,061 [INFO]   [ 149/350] ✓ TMB   : 1,985 rows
+2026-09-28 22:53:58,656 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:54:30,752 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:55:02,852 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:55:06,592 [INFO]   [ 150/350] ✓ AVC   : 1,959 rows
+2026-09-28 22:55:08,834 [INFO]   [ 151/350] ✓ SIV   : 1,951 rows
+2026-09-28 22:55:40,440 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:55:43,265 [INFO]   [ 152/350] ✓ VFG   : 1,987 rows
+2026-09-28 22:55:45,528 [INFO]   [ 153/350] ✓ TFC   : 1,994 rows
+2026-09-28 22:56:17,128 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:56:49,239 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:57:21,346 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:57:25,078 [INFO]   [ 154/350] ✓ DRL   : 1,994 rows
+2026-09-28 22:57:56,678 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:57:59,160 [INFO]   [ 155/350] ✓ SZB   : 1,686 rows
+2026-09-28 22:58:30,766 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:58:33,559 [INFO]   [ 156/350] ✓ VGC   : 1,987 rows
+2026-09-28 22:59:05,164 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:59:07,857 [INFO]   [ 157/350] ✓ TDB   : 1,973 rows
+2026-09-28 22:59:39,461 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 22:59:42,377 [INFO]   [ 158/350] ✓ ACV   : 1,994 rows
+2026-09-28 22:59:44,602 [INFO]   [ 159/350] ✓ FT1   : 1,990 rows
+2026-09-28 22:59:46,408 [INFO]   [ 160/350] ✓ SEB   : 1,984 rows
+2026-09-28 22:59:48,174 [INFO]   [ 161/350] ✓ VXT   : 1,297 rows
+2026-09-28 22:59:49,971 [INFO]   [ 162/350] ✓ CLW   : 1,959 rows
+2026-09-28 22:59:51,782 [INFO]   [ 163/350] ✓ CAP   : 1,994 rows
+2026-09-28 22:59:53,582 [INFO]   [ 164/350] ✓ SBH   : 1,977 rows
+2026-09-28 22:59:55,406 [INFO]   [ 165/350] ✓ VSH   : 1,994 rows
+2026-09-28 22:59:57,231 [INFO]   [ 166/350] ✓ TIX   : 1,926 rows
+2026-09-28 22:59:59,052 [INFO]   [ 167/350] ✓ SMB   : 1,993 rows
+2026-09-28 23:00:00,845 [INFO]   [ 168/350] ✓ BWE   : 1,994 rows
+2026-09-28 23:00:02,641 [INFO]   [ 169/350] ✓ BCM   : 1,987 rows
+2026-09-28 23:00:04,443 [INFO]   [ 170/350] ✓ BTT   : 1,952 rows
+2026-09-28 23:00:06,184 [INFO]   [ 171/350] ✓ VXP   : 1,235 rows
+2026-09-28 23:00:08,009 [INFO]   [ 172/350] ✓ VGG   : 1,984 rows
+2026-09-28 23:00:39,605 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:01:11,701 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:01:43,809 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:02:16,908 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:02:19,677 [INFO]   [ 173/350] ✓ CC1   : 1,994 rows
+2026-09-28 23:02:51,269 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:03:23,374 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:03:55,467 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:03:59,281 [INFO]   [ 174/350] ✓ VEA   : 1,994 rows
+2026-09-28 23:04:01,654 [INFO]   [ 175/350] ✓ VTK   : 1,938 rows
+2026-09-28 23:04:03,411 [INFO]   [ 176/350] ✓ STW   : 1,837 rows
+2026-09-28 23:04:05,118 [INFO]   [ 177/350] ✓ HHB   : 150 rows
+2026-09-28 23:04:06,893 [INFO]   [ 178/350] ✓ DNT   : 1,472 rows
+2026-09-28 23:04:08,732 [INFO]   [ 179/350] ✓ DHC   : 1,994 rows
+2026-09-28 23:04:10,504 [INFO]   [ 180/350] ✓ HNI   : 1,968 rows
+2026-09-28 23:04:12,284 [INFO]   [ 181/350] ✓ DCF   : 1,954 rows
+2026-09-28 23:04:43,870 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:05:15,977 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:05:18,525 [INFO]   [ 182/350] ✓ DNL   : 1,934 rows
+2026-09-28 23:05:50,199 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:05:52,950 [INFO]   [ 183/350] ✓ DPR   : 1,994 rows
+2026-09-28 23:05:55,219 [INFO]   [ 184/350] ✓ NNC   : 1,994 rows
+2026-09-28 23:06:26,820 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:06:58,924 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:07:01,748 [INFO]   [ 185/350] ✓ DSN   : 1,994 rows
+2026-09-28 23:07:33,351 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:08:05,465 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:08:08,181 [INFO]   [ 186/350] ✓ VDN   : 1,961 rows
+2026-09-28 23:08:39,784 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:09:11,885 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:09:43,990 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:10:17,102 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:10:19,823 [INFO]   [ 187/350] ✓ BCF   : 1,632 rows
+2026-09-28 23:10:51,427 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:11:23,534 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:11:55,643 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:11:59,372 [INFO]   [ 188/350] ✓ VMS   : 1,955 rows
+2026-09-28 23:12:30,972 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:13:03,083 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:13:05,887 [INFO]   [ 189/350] ✓ IMP   : 1,994 rows
+2026-09-28 23:13:37,489 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:14:09,594 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:14:41,710 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:15:14,811 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:15:46,932 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:16:19,036 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:16:52,138 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:17:24,245 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:17:26,951 [INFO]   [ 190/350] ✓ TRA   : 1,994 rows
+2026-09-28 23:17:58,548 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:18:30,637 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:19:02,749 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:19:06,507 [INFO]   [ 191/350] ✓ LSG   : 1,093 rows
+2026-09-28 23:19:08,748 [INFO]   [ 192/350] ✓ INN   : 1,979 rows
+2026-09-28 23:19:40,342 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:20:12,448 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:20:15,181 [INFO]   [ 193/350] ✓ MDG   : 1,972 rows
+2026-09-28 23:20:46,785 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:21:18,895 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:21:51,017 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:22:24,127 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:22:56,230 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:22:58,970 [INFO]   [ 194/350] ✓ VNC   : 1,981 rows
+2026-09-28 23:23:00,946 [INFO]   [ 195/350] ✓ QHW   : 1,828 rows
+2026-09-28 23:23:32,549 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:24:04,656 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:24:36,759 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:25:09,864 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:25:12,773 [INFO]   [ 196/350] ✓ DGC   : 1,988 rows
+2026-09-28 23:25:44,377 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:26:16,471 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:26:19,207 [INFO]   [ 197/350] ✓ SRC   : 1,968 rows
+2026-09-28 23:26:50,810 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:26:53,561 [INFO]   [ 198/350] ✓ QPH   : 1,937 rows
+2026-09-28 23:27:25,164 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:27:57,265 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:28:29,375 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:29:02,474 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:29:05,165 [INFO]   [ 199/350] ✓ PJC   : 1,965 rows
+2026-09-28 23:29:07,359 [INFO]   [ 200/350] ✓ BID   : 1,994 rows
+2026-09-28 23:29:38,950 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:30:11,063 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:30:43,164 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:31:16,267 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:31:18,961 [INFO]   [ 201/350] ✓ UPC   : 1,813 rows
+2026-09-28 23:31:50,559 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:32:22,667 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:32:25,362 [INFO]   [ 202/350] ✓ SZG   : 1,127 rows
+2026-09-28 23:32:27,561 [INFO]   [ 203/350] ✓ HSA   : 1,875 rows
+2026-09-28 23:32:59,162 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:33:31,267 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:34:03,375 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:34:36,481 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:35:08,588 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:35:40,707 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:35:44,414 [INFO]   [ 204/350] ✓ PMW   : 1,682 rows
+2026-09-28 23:36:16,006 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:36:48,109 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:37:20,217 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:37:23,902 [INFO]   [ 205/350] ✓ MA1   : 1,511 rows
+2026-09-28 23:37:25,896 [INFO]   [ 206/350] ✓ SAS   : 1,994 rows
+2026-09-28 23:37:57,511 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:38:00,182 [INFO]   [ 207/350] ✓ TOW   : 1,845 rows
+2026-09-28 23:38:31,785 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:39:03,890 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:39:06,741 [INFO]   [ 208/350] ✓ PLX   : 1,994 rows
+2026-09-28 23:39:38,334 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:40:10,445 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:40:13,211 [INFO]   [ 209/350] ✓ PMS   : 1,939 rows
+2026-09-28 23:40:15,202 [INFO]   [ 210/350] ✓ ND2   : 1,989 rows
+2026-09-28 23:40:16,998 [INFO]   [ 211/350] ✓ SPV   : 1,952 rows
+2026-09-28 23:40:18,815 [INFO]   [ 212/350] ✓ TMS   : 1,995 rows
+2026-09-28 23:40:20,620 [INFO]   [ 213/350] ✓ LIC   : 1,980 rows
+2026-09-28 23:40:22,412 [INFO]   [ 214/350] ✓ DPP   : 1,997 rows
+2026-09-28 23:40:24,132 [INFO]   [ 215/350] ✓ TAB   : 168 rows
+2026-09-28 23:40:25,909 [INFO]   [ 216/350] ✓ SBM   : 1,995 rows
+2026-09-28 23:40:27,742 [INFO]   [ 217/350] ✓ DCM   : 1,994 rows
+2026-09-28 23:40:29,949 [INFO]   [ 218/350] ✓ IDC   : 1,988 rows
+2026-09-28 23:41:01,550 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:41:33,670 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:42:05,771 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:42:09,554 [INFO]   [ 219/350] ✓ HDM   : 1,980 rows
+2026-09-28 23:42:41,154 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:43:13,269 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:43:16,003 [INFO]   [ 220/350] ✓ TTE   : 1,477 rows
+2026-09-28 23:43:18,317 [INFO]   [ 221/350] ✓ NCS   : 1,947 rows
+2026-09-28 23:43:49,918 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:43:52,661 [INFO]   [ 222/350] ✓ VDP   : 1,990 rows
+2026-09-28 23:43:54,620 [INFO]   [ 223/350] ✓ VAV   : 1,995 rows
+2026-09-28 23:43:56,413 [INFO]   [ 224/350] ✓ STG   : 1,775 rows
+2026-09-28 23:43:58,228 [INFO]   [ 225/350] ✓ HTG   : 1,985 rows
+2026-09-28 23:44:00,003 [INFO]   [ 226/350] ✓ LKW   : 1,978 rows
+2026-09-28 23:44:01,783 [INFO]   [ 227/350] ✓ HRB   : 1,990 rows
+2026-09-28 23:44:03,604 [INFO]   [ 228/350] ✓ TCB   : 1,994 rows
+2026-09-28 23:44:05,412 [INFO]   [ 229/350] ✓ TRS   : 1,995 rows
+2026-09-28 23:44:07,257 [INFO]   [ 230/350] ✓ PNJ   : 1,994 rows
+2026-09-28 23:44:38,850 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:44:41,577 [INFO]   [ 231/350] ✓ GVR   : 1,988 rows
+2026-09-28 23:44:43,381 [INFO]   [ 232/350] ✓ DNW   : 1,987 rows
+2026-09-28 23:44:45,219 [INFO]   [ 233/350] ✓ FMC   : 1,994 rows
+2026-09-28 23:44:47,016 [INFO]   [ 234/350] ✓ NBW   : 1,989 rows
+2026-09-28 23:44:48,801 [INFO]   [ 235/350] ✓ VEC   : 1,967 rows
+2026-09-28 23:44:50,581 [INFO]   [ 236/350] ✓ MTH   : 1,981 rows
+2026-09-28 23:44:52,380 [INFO]   [ 237/350] ✓ S4A   : 1,932 rows
+2026-09-28 23:44:54,199 [INFO]   [ 238/350] ✓ PVS   : 1,994 rows
+2026-09-28 23:44:56,056 [INFO]   [ 239/350] ✓ PHR   : 1,994 rows
+2026-09-28 23:44:57,868 [INFO]   [ 240/350] ✓ QTC   : 1,976 rows
+2026-09-28 23:44:59,661 [INFO]   [ 241/350] ✓ TTT   : 1,901 rows
+2026-09-28 23:45:01,459 [INFO]   [ 242/350] ✓ SDV   : 1,995 rows
+2026-09-28 23:45:03,242 [INFO]   [ 243/350] ✓ IST   : 1,994 rows
+2026-09-28 23:45:05,010 [INFO]   [ 244/350] ✓ EME   : 1,832 rows
+2026-09-28 23:45:06,808 [INFO]   [ 245/350] ✓ VNT   : 1,540 rows
+2026-09-28 23:45:38,414 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:46:10,516 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:46:42,623 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:47:15,725 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:47:47,823 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:47:50,550 [INFO]   [ 246/350] ✓ TCW   : 1,994 rows
+2026-09-28 23:48:22,143 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:48:54,245 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:48:57,066 [INFO]   [ 247/350] ✓ ACE   : 1,992 rows
+2026-09-28 23:49:28,668 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:49:31,386 [INFO]   [ 248/350] ✓ CQN   : 1,524 rows
+2026-09-28 23:50:02,981 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:50:35,086 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:51:07,192 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:51:10,920 [INFO]   [ 249/350] ✓ CCM   : 1,932 rows
+2026-09-28 23:51:13,137 [INFO]   [ 250/350] ✓ BAF   : 1,198 rows
+2026-09-28 23:51:14,944 [INFO]   [ 251/350] ✓ TBC   : 1,984 rows
+2026-09-28 23:51:16,771 [INFO]   [ 252/350] ✓ VCS   : 1,994 rows
+2026-09-28 23:51:18,554 [INFO]   [ 253/350] ✓ NAS   : 1,827 rows
+2026-09-28 23:51:20,367 [INFO]   [ 254/350] ✓ SHP   : 1,994 rows
+2026-09-28 23:51:22,155 [INFO]   [ 255/350] ✓ ICC   : 1,806 rows
+2026-09-28 23:51:23,917 [INFO]   [ 256/350] ✓ ACG   : 1,275 rows
+2026-09-28 23:51:55,519 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:51:58,213 [INFO]   [ 257/350] ✓ HRC   : 1,828 rows
+2026-09-28 23:52:00,450 [INFO]   [ 258/350] ✓ CNC   : 1,977 rows
+2026-09-28 23:52:32,046 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:53:04,143 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:53:36,247 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:53:39,960 [INFO]   [ 259/350] ✓ PRE   : 1,431 rows
+2026-09-28 23:54:11,547 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:54:43,651 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:54:46,392 [INFO]   [ 260/350] ✓ HAT   : 1,990 rows
+2026-09-28 23:55:17,992 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:55:50,095 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:56:22,208 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:56:25,973 [INFO]   [ 261/350] ✓ CCP   : 1,973 rows
+2026-09-28 23:56:57,569 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:56:59,982 [INFO]   [ 262/350] ✓ QNP   : 651 rows
+2026-09-28 23:57:31,573 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:57:34,388 [INFO]   [ 263/350] ✓ BWS   : 1,993 rows
+2026-09-28 23:57:36,735 [INFO]   [ 264/350] ✓ GDW   : 1,953 rows
+2026-09-28 23:58:08,329 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:58:40,448 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:58:43,204 [INFO]   [ 265/350] ✓ HMS   : 1,979 rows
+2026-09-28 23:59:14,806 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:59:17,576 [INFO]   [ 266/350] ✓ BSR   : 1,986 rows
+2026-09-28 23:59:49,178 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 23:59:51,911 [INFO]   [ 267/350] ✓ DP1   : 1,994 rows
+2026-09-29 00:00:23,508 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:00:26,225 [INFO]   [ 268/350] ✓ LLM   : 1,970 rows
+2026-09-29 00:00:57,820 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:01:00,550 [INFO]   [ 269/350] ✓ CTG   : 1,994 rows
+2026-09-29 00:01:02,721 [INFO]   [ 270/350] ✓ PAP   : 1,183 rows
+2026-09-29 00:01:34,311 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:01:37,079 [INFO]   [ 271/350] ✓ PIA   : 1,782 rows
+2026-09-29 00:02:08,676 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:02:40,790 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:03:12,892 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:03:45,997 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:03:48,706 [INFO]   [ 272/350] ✓ UDL   : 1,638 rows
+2026-09-29 00:03:50,676 [INFO]   [ 273/350] ✓ HTC   : 1,964 rows
+2026-09-29 00:04:22,281 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:04:24,949 [INFO]   [ 274/350] ✓ STH   : 1,600 rows
+2026-09-29 00:04:56,549 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:04:59,203 [INFO]   [ 275/350] ✓ TCX   : 232 rows
+2026-09-29 00:05:01,195 [INFO]   [ 276/350] ✓ AGP   : 1,994 rows
+2026-09-29 00:05:32,792 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:05:35,565 [INFO]   [ 277/350] ✓ DFC   : 1,973 rows
+2026-09-29 00:05:37,785 [INFO]   [ 278/350] ✓ BAX   : 1,945 rows
+2026-09-29 00:06:09,387 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:06:41,495 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:07:13,600 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:07:17,244 [INFO]   [ 279/350] ✓ VLW   : 1,994 rows
+2026-09-29 00:07:19,457 [INFO]   [ 280/350] ✓ MSH   : 1,952 rows
+2026-09-29 00:07:21,236 [INFO]   [ 281/350] ✓ A32   : 1,956 rows
+2026-09-29 00:07:23,045 [INFO]   [ 282/350] ✓ GLT   : 1,935 rows
+2026-09-29 00:07:24,843 [INFO]   [ 283/350] ✓ HEC   : 1,980 rows
+2026-09-29 00:07:26,641 [INFO]   [ 284/350] ✓ MFS   : 1,861 rows
+2026-09-29 00:07:28,372 [INFO]   [ 285/350] ✓ GEL   : 156 rows
+2026-09-29 00:07:30,183 [INFO]   [ 286/350] ✓ PTB   : 1,994 rows
+2026-09-29 00:07:32,449 [INFO]   [ 287/350] ✓ TCL   : 1,994 rows
+2026-09-29 00:07:34,271 [INFO]   [ 288/350] ✓ VGP   : 1,994 rows
+2026-09-29 00:07:36,038 [INFO]   [ 289/350] ✓ MML   : 1,696 rows
+2026-09-29 00:07:37,854 [INFO]   [ 290/350] ✓ D2D   : 1,994 rows
+2026-09-29 00:07:39,637 [INFO]   [ 291/350] ✓ CTW   : 1,976 rows
+2026-09-29 00:07:41,516 [INFO]   [ 292/350] ✓ HPT   : 1,956 rows
+2026-09-29 00:07:43,323 [INFO]   [ 293/350] ✓ MAS   : 1,676 rows
+2026-09-29 00:08:14,924 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:08:17,610 [INFO]   [ 294/350] ✓ SCL   : 1,988 rows
+2026-09-29 00:08:49,206 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:08:51,941 [INFO]   [ 295/350] ✓ BVS   : 1,994 rows
+2026-09-29 00:09:23,541 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:09:55,645 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:10:27,741 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:11:00,846 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:11:32,939 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:12:05,045 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:12:08,768 [INFO]   [ 296/350] ✓ TMW   : 1,997 rows
+2026-09-29 00:12:40,365 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:13:12,477 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:13:44,583 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:14:17,701 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:14:20,389 [INFO]   [ 297/350] ✓ TNC   : 1,995 rows
+2026-09-29 00:14:22,576 [INFO]   [ 298/350] ✓ VTM   : 2,001 rows
+2026-09-29 00:14:54,178 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:15:26,294 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:15:58,416 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:16:31,518 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:17:03,613 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:17:06,319 [INFO]   [ 299/350] ✓ MLC   : 1,978 rows
+2026-09-29 00:17:08,444 [INFO]   [ 300/350] ✓ VCK   : 192 rows
+2026-09-29 00:17:10,236 [INFO]   [ 301/350] ✓ VAF   : 1,967 rows
+2026-09-29 00:17:12,029 [INFO]   [ 302/350] ✓ DHD   : 1,989 rows
+2026-09-29 00:17:13,753 [INFO]   [ 303/350] ✓ V68   : 25 rows
+2026-09-29 00:17:15,563 [INFO]   [ 304/350] ✓ MCP   : 1,994 rows
+2026-09-29 00:17:17,353 [INFO]   [ 305/350] ✓ HDP   : 1,956 rows
+2026-09-29 00:17:19,083 [INFO]   [ 306/350] ✓ VMK   : 427 rows
+2026-09-29 00:17:20,862 [INFO]   [ 307/350] ✓ BDG   : 1,988 rows
+2026-09-29 00:17:52,458 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:18:24,565 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:18:27,211 [INFO]   [ 308/350] ✓ BCV   : 841 rows
+2026-09-29 00:18:58,800 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:19:30,901 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:19:33,635 [INFO]   [ 309/350] ✓ LBM   : 1,994 rows
+2026-09-29 00:20:05,230 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:20:37,333 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:20:40,188 [INFO]   [ 310/350] ✓ THG   : 1,994 rows
+2026-09-29 00:21:11,787 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:21:43,898 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:22:16,005 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:22:49,112 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:23:21,214 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:23:24,038 [INFO]   [ 311/350] ✓ DPG   : 1,994 rows
+2026-09-29 00:23:55,635 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:23:58,303 [INFO]   [ 312/350] ✓ MNB   : 1,979 rows
+2026-09-29 00:24:00,259 [INFO]   [ 313/350] ✓ KHW   : 1,965 rows
+2026-09-29 00:24:31,858 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:24:34,535 [INFO]   [ 314/350] ✓ TAW   : 1,979 rows
+2026-09-29 00:25:06,149 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:25:38,263 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:26:10,372 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:26:43,477 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:26:46,209 [INFO]   [ 315/350] ✓ HDB   : 1,994 rows
+2026-09-29 00:27:17,811 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:27:49,905 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:28:22,006 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:28:55,122 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:29:27,230 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:29:30,003 [INFO]   [ 316/350] ✓ GND   : 1,939 rows
+2026-09-29 00:30:01,632 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:30:33,740 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:30:36,462 [INFO]   [ 317/350] ✓ MKP   : 1,984 rows
+2026-09-29 00:31:08,059 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:31:10,767 [INFO]   [ 318/350] ✓ PPH   : 1,994 rows
+2026-09-29 00:31:42,369 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:31:45,086 [INFO]   [ 319/350] ✓ VSF   : 1,994 rows
+2026-09-29 00:31:47,114 [INFO]   [ 320/350] ✓ TDP   : 1,915 rows
+2026-09-29 00:31:48,938 [INFO]   [ 321/350] ✓ LHG   : 1,994 rows
+2026-09-29 00:31:50,765 [INFO]   [ 322/350] ✓ SZL   : 1,994 rows
+2026-09-29 00:31:52,567 [INFO]   [ 323/350] ✓ BVN   : 1,719 rows
+2026-09-29 00:31:54,376 [INFO]   [ 324/350] ✓ MH3   : 1,893 rows
+2026-09-29 00:31:56,184 [INFO]   [ 325/350] ✓ ICN   : 1,994 rows
+2026-09-29 00:31:57,992 [INFO]   [ 326/350] ✓ CLI   : 101 rows
+2026-09-29 00:31:59,716 [INFO]   [ 327/350] ✓ HPA   : 156 rows
+2026-09-29 00:32:01,490 [INFO]   [ 328/350] ✓ FRC   : 1,784 rows
+2026-09-29 00:32:03,281 [INFO]   [ 329/350] ✓ FHS   : 1,942 rows
+2026-09-29 00:32:05,067 [INFO]   [ 330/350] ✓ VGL   : 1,981 rows
+2026-09-29 00:32:06,874 [INFO]   [ 331/350] ✓ HC3   : 1,959 rows
+2026-09-29 00:32:08,677 [INFO]   [ 332/350] ✓ CLL   : 1,994 rows
+2026-09-29 00:32:10,466 [INFO]   [ 333/350] ✓ MGG   : 1,817 rows
+2026-09-29 00:32:42,063 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:33:14,172 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:33:46,287 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:34:19,399 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:34:51,504 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:35:23,638 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:35:56,745 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:36:28,840 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:37:00,939 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:37:00,943 [WARNING] ✗ COM: API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:37:32,534 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:38:04,644 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:38:36,748 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:38:40,528 [INFO]   [ 335/350] ✓ BSI   : 1,988 rows
+2026-09-29 00:39:12,134 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:39:44,228 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:40:16,326 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:40:49,428 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:40:52,206 [INFO]   [ 336/350] ✓ BHN   : 1,994 rows
+2026-09-29 00:41:23,801 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:41:55,823 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:42:27,932 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:42:31,755 [INFO]   [ 337/350] ✓ RTB   : 1,986 rows
+2026-09-29 00:43:03,349 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:43:35,455 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:44:07,556 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:44:11,242 [INFO]   [ 338/350] ✓ CDN   : 1,994 rows
+2026-09-29 00:44:42,840 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:45:14,945 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:45:17,623 [INFO]   [ 339/350] ✓ IME   : 1,792 rows
+2026-09-29 00:45:49,221 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:46:21,330 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:46:53,484 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:46:57,262 [INFO]   [ 340/350] ✓ MCM   : 1,430 rows
+2026-09-29 00:46:59,530 [INFO]   [ 341/350] ✓ CHP   : 1,994 rows
+2026-09-29 00:47:31,125 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:47:33,938 [INFO]   [ 342/350] ✓ SNZ   : 1,976 rows
+2026-09-29 00:48:05,536 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:48:37,644 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:48:40,376 [INFO]   [ 343/350] ✓ PTO   : 1,915 rows
+2026-09-29 00:48:42,732 [INFO]   [ 344/350] ✓ KHD   : 1,995 rows
+2026-09-29 00:49:14,338 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:49:17,163 [INFO]   [ 345/350] ✓ KBC   : 1,994 rows
+2026-09-29 00:49:48,759 [ERROR] API request failed: HTTPSConnectionPool(host='trading.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:49:51,445 [INFO]   [ 346/350] ✓ TTG   : 1,791 rows
+2026-09-29 00:49:53,643 [INFO]   [ 347/350] ✓ HPW   : 1,942 rows
+2026-09-29 00:49:55,441 [INFO]   [ 348/350] ✓ HJS   : 1,941 rows
+2026-09-29 00:49:57,238 [INFO]   [ 349/350] ✓ SP2   : 1,748 rows
+2026-09-29 00:49:59,037 [INFO]   [ 350/350] ✓ GSM   : 1,983 rows
+2026-09-29 00:49:59,178 [INFO] ✅ hose_ohlcv_raw.parquet: 345 mã, 621,926 rows | Failed: ['NHD', 'F88', 'WSB', 'SJS', 'COM']
+2026-09-29 00:49:59,179 [INFO] 
+💰 [2/4] Pull capital history...
+2026-09-29 00:55:18,793 [WARNING]   [ 226/350] ✗ LKW   : cap_hist failed
+2026-09-29 00:57:37,249 [WARNING]   [ 323/350] ✗ BVN   : cap_hist failed
+2026-09-29 00:58:16,706 [INFO] ✅ hose_capital_history.csv: 331 mã
+2026-09-29 00:58:16,706 [INFO] 
+🎯 [3/4] Build dynamic top-100 universe...
+2026-09-29 00:58:16,706 [INFO] Tính dynamic universe top-100 theo từng tháng...
+2026-09-29 00:58:17,091 [INFO] Dynamic universe: 226 unique symbols across 123 months
+2026-09-29 00:58:17,092 [INFO]   Unique symbols ever in top-100: 226
+2026-09-29 00:58:17,097 [INFO] 
+📚 [4/4] Pull financials cho 226 mã...
+2026-09-29 00:58:57,565 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:59:00,248 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 00:59:00,248 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 00:59:30,315 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 00:59:32,982 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 00:59:32,982 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 00:59:32,995 [INFO]   [   1/226] ✓ Fin VTM   : 8 yrs
+2026-09-29 01:00:04,960 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:00:17,574 [ERROR] API request failed: Response ended prematurely
+2026-09-29 01:00:21,281 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:00:21,281 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:00:21,666 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:00:21,666 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:00:21,677 [INFO]   [   2/226] ✓ Fin VXB   : 7 yrs
+2026-09-29 01:00:23,729 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:00:23,729 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:00:24,108 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:00:24,108 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:00:24,121 [INFO]   [   3/226] ✓ Fin HSA   : 8 yrs
+2026-09-29 01:00:26,201 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:00:26,201 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:00:26,562 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:00:26,563 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:00:26,576 [INFO]   [   4/226] ✓ Fin LGC   : 8 yrs
+2026-09-29 01:00:28,625 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:00:28,626 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:00:28,950 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:00:28,950 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:00:28,962 [INFO]   [   5/226] ✓ Fin DPP   : 8 yrs
+2026-09-29 01:00:31,134 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:00:31,134 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:00:31,488 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:00:31,489 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:00:31,503 [INFO]   [   6/226] ✓ Fin VFC   : 8 yrs
+2026-09-29 01:00:33,999 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:00:33,999 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:00:34,546 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:00:34,546 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:00:34,558 [INFO]   [   7/226] ✓ Fin STS   : 8 yrs
+2026-09-29 01:00:36,713 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:00:36,713 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:00:37,082 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:00:37,082 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:00:37,095 [INFO]   [   8/226] ✓ Fin STW   : 8 yrs
+2026-09-29 01:00:39,158 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:00:39,158 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:00:39,483 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:00:39,483 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:00:39,496 [INFO]   [   9/226] ✓ Fin TAW   : 7 yrs
+2026-09-29 01:00:41,554 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:00:41,554 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:00:41,903 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:00:41,904 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:00:41,916 [INFO]   [  10/226] ✓ Fin POB   : 8 yrs
+2026-09-29 01:00:44,016 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:00:44,016 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:00:44,364 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:00:44,364 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:00:44,377 [INFO]   [  11/226] ✓ Fin ARM   : 8 yrs
+2026-09-29 01:00:46,503 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:00:46,503 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:00:46,850 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:00:46,850 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:00:46,863 [INFO]   [  12/226] ✓ Fin QHD   : 8 yrs
+2026-09-29 01:00:48,872 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:00:48,872 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:00:49,205 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:00:49,205 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:00:49,218 [INFO]   [  13/226] ✓ Fin IME   : 8 yrs
+2026-09-29 01:00:51,244 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:00:51,244 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:00:51,594 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:00:51,594 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:00:51,607 [INFO]   [  14/226] ✓ Fin MTH   : 8 yrs
+2026-09-29 01:00:53,620 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:00:53,620 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:00:53,956 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:00:53,957 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:00:53,969 [INFO]   [  15/226] ✓ Fin CCM   : 8 yrs
+2026-09-29 01:01:25,418 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:01:29,114 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:01:29,114 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:01:59,539 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:02:32,073 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:02:34,691 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:02:34,691 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:02:34,705 [INFO]   [  16/226] ✓ Fin HNI   : 8 yrs
+2026-09-29 01:02:46,732 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:02:46,732 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:02:47,124 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:02:47,124 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:02:47,138 [INFO]   [  17/226] ✓ Fin VGL   : 8 yrs
+2026-09-29 01:02:49,241 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:02:49,241 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:02:49,604 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:02:49,604 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:02:49,618 [INFO]   [  18/226] ✓ Fin CCP   : 8 yrs
+2026-09-29 01:02:51,665 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:02:51,665 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:02:52,004 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:02:52,005 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:02:52,017 [INFO]   [  19/226] ✓ Fin FCC   : 8 yrs
+2026-09-29 01:02:54,067 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:02:54,070 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:02:54,443 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:02:54,443 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:02:54,452 [INFO]   [  20/226] ✓ Fin IN4   : 8 yrs
+2026-09-29 01:02:56,560 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:02:56,560 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:02:56,889 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:02:56,889 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:02:56,902 [INFO]   [  21/226] ✓ Fin TMW   : 8 yrs
+2026-09-29 01:02:59,023 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:02:59,023 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:02:59,376 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:02:59,376 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:02:59,389 [INFO]   [  22/226] ✓ Fin DCF   : 8 yrs
+2026-09-29 01:03:01,465 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:03:01,466 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:03:01,815 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:03:01,815 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:03:01,829 [INFO]   [  23/226] ✓ Fin DVW   : 8 yrs
+2026-09-29 01:03:03,946 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:03:03,947 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:03:04,306 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:03:04,306 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:03:04,319 [INFO]   [  24/226] ✓ Fin DNH   : 8 yrs
+2026-09-29 01:03:46,511 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:04:18,611 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:04:21,331 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:04:21,331 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:04:21,712 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:04:21,712 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:04:21,725 [INFO]   [  25/226] ✓ Fin VGG   : 8 yrs
+2026-09-29 01:04:33,748 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:04:33,751 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:04:34,126 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:04:34,126 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:04:34,139 [INFO]   [  26/226] ✓ Fin TBD   : 8 yrs
+2026-09-29 01:05:06,548 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:05:09,278 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:05:09,278 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:05:09,664 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:05:09,664 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:05:09,677 [INFO]   [  27/226] ✓ Fin HHC   : 8 yrs
+2026-09-29 01:05:11,832 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:05:11,833 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:05:12,206 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:05:12,206 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:05:12,219 [INFO]   [  28/226] ✓ Fin MKP   : 8 yrs
+2026-09-29 01:05:14,339 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:05:14,339 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:05:14,710 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:05:14,710 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:05:14,724 [INFO]   [  29/226] ✓ Fin S4A   : 8 yrs
+2026-09-29 01:05:16,881 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:05:16,882 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:05:17,257 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:05:17,257 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:05:17,270 [INFO]   [  30/226] ✓ Fin SBM   : 8 yrs
+2026-09-29 01:05:19,376 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:05:19,377 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:05:19,785 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:05:19,785 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:05:19,798 [INFO]   [  31/226] ✓ Fin RTB   : 8 yrs
+2026-09-29 01:05:21,876 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:05:21,876 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:05:22,244 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:05:22,244 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:05:22,257 [INFO]   [  32/226] ✓ Fin TIX   : 8 yrs
+2026-09-29 01:05:24,674 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:05:24,674 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:05:54,744 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:05:57,409 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:05:57,409 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:05:57,422 [INFO]   [  33/226] ✓ Fin MNB   : 8 yrs
+2026-09-29 01:06:00,030 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:06:00,030 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:06:00,391 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:06:00,391 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:06:00,404 [INFO]   [  34/226] ✓ Fin TMS   : 8 yrs
+2026-09-29 01:06:02,569 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:06:02,569 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:06:32,644 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:06:35,358 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:06:35,361 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:06:35,376 [INFO]   [  35/226] ✓ Fin TTD   : 8 yrs
+2026-09-29 01:06:37,771 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:06:37,771 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:06:38,175 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:06:38,175 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:06:38,188 [INFO]   [  36/226] ✓ Fin INN   : 8 yrs
+2026-09-29 01:06:40,748 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:06:40,748 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:06:41,155 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:06:41,155 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:06:41,168 [INFO]   [  37/226] ✓ Fin VNT   : 8 yrs
+2026-09-29 01:06:43,300 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:06:43,300 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:06:43,659 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:06:43,659 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:06:43,672 [INFO]   [  38/226] ✓ Fin MAS   : 8 yrs
+2026-09-29 01:06:45,786 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:06:45,786 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:06:46,256 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:06:46,256 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:06:46,270 [INFO]   [  39/226] ✓ Fin QPH   : 8 yrs
+2026-09-29 01:07:17,711 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:08:00,279 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:08:04,672 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:08:04,672 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:08:05,075 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:08:05,075 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:08:05,088 [INFO]   [  40/226] ✓ Fin S55   : 8 yrs
+2026-09-29 01:08:07,204 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:08:07,204 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:08:07,588 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:08:07,588 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:08:07,601 [INFO]   [  41/226] ✓ Fin VAF   : 8 yrs
+2026-09-29 01:08:09,594 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:08:09,594 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:08:09,952 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:08:09,952 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:08:09,965 [INFO]   [  42/226] ✓ Fin AGX   : 8 yrs
+2026-09-29 01:08:12,061 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:08:12,061 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:08:12,442 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:08:12,442 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:08:12,455 [INFO]   [  43/226] ✓ Fin TNC   : 8 yrs
+2026-09-29 01:08:14,550 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:08:14,550 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:08:15,100 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:08:15,100 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:08:15,112 [INFO]   [  44/226] ✓ Fin TTT   : 8 yrs
+2026-09-29 01:08:17,170 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:08:17,170 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:08:17,522 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:08:17,522 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:08:17,535 [INFO]   [  45/226] ✓ Fin TDB   : 8 yrs
+2026-09-29 01:08:49,452 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:09:23,071 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:09:25,773 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:09:25,773 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:09:26,146 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:09:26,146 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:09:26,159 [INFO]   [  46/226] ✓ Fin WCS   : 8 yrs
+2026-09-29 01:09:28,287 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:09:28,287 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:09:28,679 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:09:28,679 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:09:28,692 [INFO]   [  47/226] ✓ Fin TDW   : 8 yrs
+2026-09-29 01:10:00,458 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:10:32,547 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:10:35,301 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:10:35,301 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:11:05,366 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:11:07,741 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:11:07,741 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:11:07,755 [INFO]   [  48/226] ✓ Fin TET   : 8 yrs
+2026-09-29 01:11:49,121 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:12:32,446 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:12:35,166 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:12:35,166 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:12:35,490 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:12:35,491 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:12:35,504 [INFO]   [  49/226] ✓ Fin HLB   : 8 yrs
+2026-09-29 01:13:07,356 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:13:49,912 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:14:22,976 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:14:22,980 [WARNING]   [  50/226] ✗ Fin GDW   : API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:14:35,260 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:14:35,260 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:14:35,631 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:14:35,631 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:14:35,645 [INFO]   [  51/226] ✓ Fin CTW   : 8 yrs
+2026-09-29 01:14:37,720 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:14:37,720 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:14:38,075 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:14:38,075 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:14:38,088 [INFO]   [  52/226] ✓ Fin GND   : 8 yrs
+2026-09-29 01:14:40,185 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:14:40,185 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:14:40,591 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:14:40,591 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:14:40,604 [INFO]   [  53/226] ✓ Fin MH3   : 8 yrs
+2026-09-29 01:14:42,676 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:14:42,676 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:14:43,051 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:14:43,051 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:14:43,064 [INFO]   [  54/226] ✓ Fin BAX   : 8 yrs
+2026-09-29 01:14:45,121 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:14:45,121 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:14:45,441 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:14:45,441 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:14:45,454 [INFO]   [  55/226] ✓ Fin GTD   : 8 yrs
+2026-09-29 01:14:47,557 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:14:47,557 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:14:47,923 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:14:47,924 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:14:47,936 [INFO]   [  56/226] ✓ Fin VAV   : 8 yrs
+2026-09-29 01:14:50,011 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:14:50,011 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:14:50,364 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:14:50,364 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:14:50,377 [INFO]   [  57/226] ✓ Fin HRB   : 8 yrs
+2026-09-29 01:15:22,281 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:15:25,065 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:15:25,065 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:15:25,453 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:15:25,453 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:15:25,465 [INFO]   [  58/226] ✓ Fin TPS   : 8 yrs
+2026-09-29 01:15:57,356 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:16:30,921 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:17:03,007 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:17:35,542 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:18:18,457 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:18:21,126 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:18:21,127 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:18:51,359 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:19:23,448 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:19:26,071 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:19:26,071 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:19:26,084 [INFO]   [  59/226] ✓ Fin CNN   : 8 yrs
+2026-09-29 01:20:07,762 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:20:40,290 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:21:13,133 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:21:59,635 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:22:02,756 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:22:02,757 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:22:32,823 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:22:36,196 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:22:36,196 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:22:36,210 [INFO]   [  60/226] ✓ Fin SPV   : 8 yrs
+2026-09-29 01:22:42,649 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:22:42,649 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:22:43,771 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:22:43,772 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:22:43,785 [INFO]   [  61/226] ✓ Fin PNG   : 8 yrs
+2026-09-29 01:22:49,558 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:22:49,558 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:22:51,079 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:22:51,079 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:22:51,092 [INFO]   [  62/226] ✓ Fin TFC   : 8 yrs
+2026-09-29 01:23:24,915 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:23:28,379 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:23:28,380 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:23:29,417 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:23:29,417 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:23:29,430 [INFO]   [  63/226] ✓ Fin FRC   : 8 yrs
+2026-09-29 01:23:35,143 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:23:35,143 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:23:36,853 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:23:36,853 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:23:36,866 [INFO]   [  64/226] ✓ Fin VMS   : 8 yrs
+2026-09-29 01:23:42,618 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:23:42,618 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:23:43,755 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:23:43,755 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:23:43,773 [INFO]   [  65/226] ✓ Fin GVT   : 8 yrs
+2026-09-29 01:23:50,478 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:23:50,478 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:23:51,830 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:23:51,830 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:23:51,842 [INFO]   [  66/226] ✓ Fin DNL   : 8 yrs
+2026-09-29 01:24:25,918 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:24:29,153 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:24:29,153 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:24:59,223 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:25:02,333 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:25:02,333 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:25:02,345 [INFO]   [  67/226] ✓ Fin TRS   : 8 yrs
+2026-09-29 01:25:37,922 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:25:41,086 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:25:41,086 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:26:11,158 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:26:43,241 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:27:16,394 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:27:49,761 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:27:55,907 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:27:55,907 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:27:56,930 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:27:56,930 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:27:56,943 [INFO]   [  68/226] ✓ Fin QTC   : 8 yrs
+2026-09-29 01:28:01,860 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:28:01,860 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:28:03,575 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:28:03,575 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:28:03,588 [INFO]   [  69/226] ✓ Fin UPC   : 8 yrs
+2026-09-29 01:28:09,442 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:28:09,442 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:28:10,672 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:28:10,672 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:28:10,684 [INFO]   [  70/226] ✓ Fin MLC   : 8 yrs
+2026-09-29 01:28:15,023 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:28:15,023 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:28:15,397 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:28:15,397 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:28:15,411 [INFO]   [  71/226] ✓ Fin SIV   : 8 yrs
+2026-09-29 01:28:46,864 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:28:50,790 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:28:50,790 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:28:51,181 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:28:51,181 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:28:51,194 [INFO]   [  72/226] ✓ Fin VDN   : 8 yrs
+2026-09-29 01:28:53,702 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:28:53,702 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:28:54,023 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:28:54,023 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:28:54,035 [INFO]   [  73/226] ✓ Fin HPT   : 6 yrs
+2026-09-29 01:29:25,804 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:29:58,288 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:30:01,035 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:30:01,035 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:30:01,423 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:30:01,423 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:30:01,436 [INFO]   [  74/226] ✓ Fin KHD   : 8 yrs
+2026-09-29 01:30:04,538 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:30:04,538 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:30:04,974 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:30:04,975 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:30:04,987 [INFO]   [  75/226] ✓ Fin VIC   : 8 yrs
+2026-09-29 01:30:07,152 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:30:07,153 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:30:07,547 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:30:07,547 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:30:07,561 [INFO]   [  76/226] ✓ Fin GAS   : 8 yrs
+2026-09-29 01:30:09,695 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:30:09,696 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:30:10,089 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:30:10,089 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:30:10,102 [INFO]   [  77/226] ✓ Fin VNM   : 8 yrs
+2026-09-29 01:30:12,202 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:30:12,202 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:30:12,765 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:30:12,765 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:30:12,777 [INFO]   [  78/226] ✓ Fin ACV   : 8 yrs
+2026-09-29 01:30:14,894 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:30:14,894 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:30:15,677 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:30:15,677 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:30:15,690 [INFO]   [  79/226] ✓ Fin VCB   : 8 yrs
+2026-09-29 01:30:18,237 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:30:18,237 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:30:18,631 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:30:18,631 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:30:18,644 [INFO]   [  80/226] ✓ Fin MSN   : 8 yrs
+2026-09-29 01:30:20,738 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:30:20,739 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:30:21,104 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:30:21,104 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:30:21,117 [INFO]   [  81/226] ✓ Fin VHM   : 8 yrs
+2026-09-29 01:30:23,284 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:30:23,284 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:30:23,674 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:30:23,674 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:30:23,687 [INFO]   [  82/226] ✓ Fin SAB   : 8 yrs
+2026-09-29 01:30:25,765 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:30:25,765 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:30:26,125 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:30:26,125 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:30:26,139 [INFO]   [  83/226] ✓ Fin BID   : 8 yrs
+2026-09-29 01:30:28,252 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:30:28,252 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:30:28,671 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:30:28,671 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:30:28,684 [INFO]   [  84/226] ✓ Fin VJC   : 8 yrs
+2026-09-29 01:30:30,816 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:30:30,816 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:30:31,199 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:30:31,199 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:30:31,218 [INFO]   [  85/226] ✓ Fin PLX   : 8 yrs
+2026-09-29 01:30:33,329 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:30:33,329 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:30:34,004 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:30:34,004 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:30:34,016 [INFO]   [  86/226] ✓ Fin CTG   : 8 yrs
+2026-09-29 01:30:36,302 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:30:36,302 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:30:36,676 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:30:36,676 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:30:36,689 [INFO]   [  87/226] ✓ Fin VGI   : 8 yrs
+2026-09-29 01:30:38,796 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:30:38,796 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:31:08,863 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:31:11,570 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:31:11,570 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:31:11,586 [INFO]   [  88/226] ✓ Fin GVR   : 8 yrs
+2026-09-29 01:31:13,656 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:31:13,656 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:31:14,053 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:31:14,054 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:31:14,067 [INFO]   [  89/226] ✓ Fin BSR   : 8 yrs
+2026-09-29 01:31:16,365 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:31:16,366 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:31:16,763 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:31:16,763 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:31:16,775 [INFO]   [  90/226] ✓ Fin STB   : 8 yrs
+2026-09-29 01:31:18,900 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:31:18,900 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:31:19,307 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:31:19,308 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:31:19,321 [INFO]   [  91/226] ✓ Fin VEA   : 8 yrs
+2026-09-29 01:31:21,450 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:31:21,450 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:31:21,837 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:31:21,837 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:31:21,851 [INFO]   [  92/226] ✓ Fin MCH   : 8 yrs
+2026-09-29 01:31:23,964 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:31:23,965 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:31:24,352 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:31:24,352 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:31:24,365 [INFO]   [  93/226] ✓ Fin BHN   : 8 yrs
+2026-09-29 01:31:26,794 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:31:26,794 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:31:27,164 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:31:27,164 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:31:27,177 [INFO]   [  94/226] ✓ Fin MVN   : 8 yrs
+2026-09-29 01:31:29,231 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:31:29,231 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:31:29,639 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:31:29,639 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:31:29,652 [INFO]   [  95/226] ✓ Fin MWG   : 8 yrs
+2026-09-29 01:31:31,791 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:31:31,791 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:31:32,173 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:31:32,173 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:31:32,186 [INFO]   [  96/226] ✓ Fin DHG   : 8 yrs
+2026-09-29 01:31:34,270 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:31:34,270 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:31:34,627 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:31:34,628 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:31:34,641 [INFO]   [  97/226] ✓ Fin VEF   : 8 yrs
+2026-09-29 01:31:36,790 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:31:36,791 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:31:37,146 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:31:37,146 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:31:37,159 [INFO]   [  98/226] ✓ Fin CTD   : 8 yrs
+2026-09-29 01:31:39,277 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:31:39,277 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:31:39,679 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:31:39,679 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:31:39,692 [INFO]   [  99/226] ✓ Fin PNJ   : 8 yrs
+2026-09-29 01:31:41,805 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:31:41,805 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:31:42,344 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:31:42,344 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:31:42,357 [INFO]   [ 100/226] ✓ Fin VGC   : 8 yrs
+2026-09-29 01:31:44,495 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:31:44,495 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:31:44,891 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:31:44,891 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:31:44,907 [INFO]   [ 101/226] ✓ Fin PVI   : 8 yrs
+2026-09-29 01:32:16,661 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:32:48,748 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:32:51,500 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:32:51,500 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:33:21,569 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:33:25,029 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:33:25,030 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:33:25,042 [INFO]   [ 102/226] ✓ Fin REE   : 8 yrs
+2026-09-29 01:33:57,212 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:34:29,865 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:35:01,952 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:35:05,616 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:35:05,616 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:35:05,992 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:35:05,992 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:35:06,005 [INFO]   [ 103/226] ✓ Fin VSF   : 8 yrs
+2026-09-29 01:35:08,074 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:35:08,074 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:35:08,451 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:35:08,452 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:35:08,465 [INFO]   [ 104/226] ✓ Fin VCS   : 8 yrs
+2026-09-29 01:35:39,896 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:35:53,838 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:35:53,839 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:35:54,397 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:35:54,398 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:35:54,411 [INFO]   [ 105/226] ✓ Fin KDC   : 8 yrs
+2026-09-29 01:35:56,485 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:35:56,485 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:35:56,861 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:35:56,861 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:35:56,874 [INFO]   [ 106/226] ✓ Fin QNS   : 8 yrs
+2026-09-29 01:36:28,616 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:36:31,311 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:36:31,311 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:36:31,720 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:36:31,720 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:36:31,734 [INFO]   [ 107/226] ✓ Fin GMD   : 8 yrs
+2026-09-29 01:37:03,183 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:37:36,779 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:37:39,618 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:37:39,618 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:37:39,974 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:37:39,974 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:37:39,987 [INFO]   [ 108/226] ✓ Fin DCM   : 8 yrs
+2026-09-29 01:37:42,090 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:37:42,090 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:37:42,473 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:37:42,473 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:37:42,485 [INFO]   [ 109/226] ✓ Fin PHP   : 8 yrs
+2026-09-29 01:37:44,617 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:37:44,617 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:38:14,682 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:38:47,313 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:38:49,968 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:38:49,969 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:38:49,981 [INFO]   [ 110/226] ✓ Fin IDC   : 8 yrs
+2026-09-29 01:39:22,414 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:39:25,158 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:39:25,159 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:39:25,527 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:39:25,528 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:39:25,542 [INFO]   [ 111/226] ✓ Fin SCS   : 8 yrs
+2026-09-29 01:39:27,912 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:39:27,912 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:39:28,311 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:39:28,311 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:39:28,324 [INFO]   [ 112/226] ✓ Fin FOX   : 8 yrs
+2026-09-29 01:39:30,440 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:39:30,440 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:39:30,835 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:39:30,835 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:39:30,847 [INFO]   [ 113/226] ✓ Fin KBC   : 8 yrs
+2026-09-29 01:39:33,074 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:39:33,074 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:39:33,495 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:39:33,496 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:39:33,508 [INFO]   [ 114/226] ✓ Fin VCF   : 8 yrs
+2026-09-29 01:39:35,624 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:39:35,624 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:39:36,007 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:39:36,007 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:39:36,020 [INFO]   [ 115/226] ✓ Fin LPB   : 8 yrs
+2026-09-29 01:39:38,118 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:39:38,118 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:39:38,556 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:39:38,556 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:39:38,569 [INFO]   [ 116/226] ✓ Fin BMP   : 8 yrs
+2026-09-29 01:39:40,666 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:39:40,666 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:39:41,065 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:39:41,065 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:39:41,078 [INFO]   [ 117/226] ✓ Fin TLG   : 8 yrs
+2026-09-29 01:39:43,181 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:39:43,181 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:39:43,580 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:39:43,580 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:39:43,593 [INFO]   [ 118/226] ✓ Fin DMC   : 8 yrs
+2026-09-29 01:40:15,034 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:40:18,605 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:40:18,605 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:40:18,948 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:40:18,948 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:40:18,961 [INFO]   [ 119/226] ✓ Fin SAS   : 8 yrs
+2026-09-29 01:40:21,047 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:40:21,048 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:40:21,404 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:40:21,404 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:40:21,417 [INFO]   [ 120/226] ✓ Fin VHC   : 8 yrs
+2026-09-29 01:40:52,852 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:41:06,395 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:41:06,400 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:41:06,753 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:41:06,753 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:41:06,766 [INFO]   [ 121/226] ✓ Fin SGN   : 8 yrs
+2026-09-29 01:41:09,321 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:41:09,321 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:41:09,718 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:41:09,718 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:41:09,732 [INFO]   [ 122/226] ✓ Fin VSH   : 8 yrs
+2026-09-29 01:41:11,835 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:41:11,835 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:41:12,218 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:41:12,218 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:41:12,231 [INFO]   [ 123/226] ✓ Fin CHP   : 8 yrs
+2026-09-29 01:41:14,342 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:41:14,342 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:41:14,715 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:41:14,715 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:41:14,728 [INFO]   [ 124/226] ✓ Fin PHR   : 8 yrs
+2026-09-29 01:41:46,720 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:42:18,812 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:42:21,498 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:42:21,499 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:42:21,873 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:42:21,873 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:42:21,886 [INFO]   [ 125/226] ✓ Fin SBH   : 8 yrs
+2026-09-29 01:42:23,982 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:42:23,982 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:42:24,377 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:42:24,377 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:42:24,390 [INFO]   [ 126/226] ✓ Fin AST   : 8 yrs
+2026-09-29 01:42:26,499 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:42:26,499 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:42:26,885 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:42:26,885 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:42:26,898 [INFO]   [ 127/226] ✓ Fin LLM   : 8 yrs
+2026-09-29 01:42:29,024 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:42:29,024 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:42:29,424 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:42:29,425 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:42:29,438 [INFO]   [ 128/226] ✓ Fin AVC   : 8 yrs
+2026-09-29 01:42:31,481 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:42:31,481 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:42:31,863 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:42:31,863 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:42:31,876 [INFO]   [ 129/226] ✓ Fin NSC   : 8 yrs
+2026-09-29 01:42:34,031 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:42:34,031 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:42:34,422 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:42:34,423 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:42:34,436 [INFO]   [ 130/226] ✓ Fin PVS   : 8 yrs
+2026-09-29 01:42:36,596 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:42:36,596 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:42:36,974 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:42:36,974 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:42:36,987 [INFO]   [ 131/226] ✓ Fin TRA   : 8 yrs
+2026-09-29 01:42:39,049 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:42:39,049 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:42:39,394 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:42:39,394 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:42:39,406 [INFO]   [ 132/226] ✓ Fin TDM   : 8 yrs
+2026-09-29 01:42:41,503 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:42:41,503 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:42:41,860 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:42:41,860 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:42:41,873 [INFO]   [ 133/226] ✓ Fin SHP   : 8 yrs
+2026-09-29 01:42:43,962 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:42:43,963 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:42:44,306 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:42:44,306 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:42:44,320 [INFO]   [ 134/226] ✓ Fin HRC   : 8 yrs
+2026-09-29 01:42:46,348 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:42:46,349 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:42:46,724 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:42:46,724 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:42:46,737 [INFO]   [ 135/226] ✓ Fin NTP   : 8 yrs
+2026-09-29 01:42:48,786 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:42:48,786 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:42:49,158 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:42:49,158 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:42:49,171 [INFO]   [ 136/226] ✓ Fin PGS   : 8 yrs
+2026-09-29 01:42:51,229 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:42:51,230 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:42:51,607 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:42:51,607 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:42:51,620 [INFO]   [ 137/226] ✓ Fin DGC   : 8 yrs
+2026-09-29 01:43:32,992 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:43:37,085 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:43:37,086 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:43:37,504 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:43:37,504 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:43:37,517 [INFO]   [ 138/226] ✓ Fin NCT   : 8 yrs
+2026-09-29 01:44:09,401 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:44:42,429 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:45:16,079 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:45:18,787 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:45:18,787 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:45:19,195 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:45:19,195 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:45:19,207 [INFO]   [ 139/226] ✓ Fin DBD   : 8 yrs
+2026-09-29 01:45:51,059 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:45:55,068 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:45:55,071 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:45:55,474 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:45:55,474 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:45:55,488 [INFO]   [ 140/226] ✓ Fin TBC   : 8 yrs
+2026-09-29 01:45:58,160 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:45:58,160 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:45:58,727 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:45:58,727 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:45:58,741 [INFO]   [ 141/226] ✓ Fin KSV   : 8 yrs
+2026-09-29 01:46:00,832 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:46:00,832 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:46:01,182 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:46:01,182 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:46:01,196 [INFO]   [ 142/226] ✓ Fin DVP   : 8 yrs
+2026-09-29 01:46:03,273 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:46:03,273 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:46:03,647 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:46:03,647 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:46:03,660 [INFO]   [ 143/226] ✓ Fin CMF   : 8 yrs
+2026-09-29 01:46:06,184 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:46:06,184 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:46:06,530 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:46:06,531 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:46:06,543 [INFO]   [ 144/226] ✓ Fin BWS   : 8 yrs
+2026-09-29 01:46:08,639 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:46:08,639 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:46:09,002 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:46:09,002 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:46:09,015 [INFO]   [ 145/226] ✓ Fin BFC   : 8 yrs
+2026-09-29 01:46:40,466 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:46:44,345 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:46:44,346 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:46:44,822 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:46:44,823 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:46:44,838 [INFO]   [ 146/226] ✓ Fin BVS   : 8 yrs
+2026-09-29 01:46:46,974 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:46:46,974 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:46:47,376 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:46:47,376 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:46:47,389 [INFO]   [ 147/226] ✓ Fin NNC   : 8 yrs
+2026-09-29 01:46:49,482 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:46:49,483 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:46:49,866 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:46:49,866 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:46:49,879 [INFO]   [ 148/226] ✓ Fin DCL   : 8 yrs
+2026-09-29 01:46:52,397 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:46:52,398 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:46:52,956 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:46:52,956 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:46:52,971 [INFO]   [ 149/226] ✓ Fin LHG   : 8 yrs
+2026-09-29 01:46:55,029 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:46:55,029 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:46:55,406 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:46:55,406 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:46:55,419 [INFO]   [ 150/226] ✓ Fin ND2   : 8 yrs
+2026-09-29 01:46:57,584 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:46:57,584 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:46:57,994 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:46:57,994 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:46:58,007 [INFO]   [ 151/226] ✓ Fin HPW   : 8 yrs
+2026-09-29 01:47:00,078 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:47:00,079 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:47:00,474 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:47:00,474 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:47:00,488 [INFO]   [ 152/226] ✓ Fin NCS   : 8 yrs
+2026-09-29 01:47:02,536 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:47:02,536 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:47:02,910 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:47:02,910 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:47:02,924 [INFO]   [ 153/226] ✓ Fin RAL   : 8 yrs
+2026-09-29 01:47:05,362 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:47:05,363 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:47:35,642 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:47:38,322 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:47:38,322 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:47:38,334 [INFO]   [ 154/226] ✓ Fin SGC   : 8 yrs
+2026-09-29 01:47:40,463 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:47:40,464 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:47:40,876 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:47:40,876 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:47:40,889 [INFO]   [ 155/226] ✓ Fin PTB   : 8 yrs
+2026-09-29 01:47:43,043 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:47:43,043 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:47:43,422 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:47:43,422 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:47:43,435 [INFO]   [ 156/226] ✓ Fin SEB   : 8 yrs
+2026-09-29 01:47:45,599 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:47:45,600 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:47:46,064 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:47:46,064 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:47:46,079 [INFO]   [ 157/226] ✓ Fin BSI   : 8 yrs
+2026-09-29 01:47:48,160 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:47:48,160 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:47:48,553 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:47:48,553 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:47:48,566 [INFO]   [ 158/226] ✓ Fin CLL   : 8 yrs
+2026-09-29 01:47:50,640 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:47:50,640 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:47:50,983 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:47:50,983 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:47:50,996 [INFO]   [ 159/226] ✓ Fin VGR   : 8 yrs
+2026-09-29 01:47:53,348 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:47:53,348 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:47:53,722 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:47:53,722 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:47:53,736 [INFO]   [ 160/226] ✓ Fin NTC   : 8 yrs
+2026-09-29 01:47:56,020 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:47:56,020 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:47:56,399 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:47:56,399 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:47:56,412 [INFO]   [ 161/226] ✓ Fin PPH   : 8 yrs
+2026-09-29 01:48:28,376 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:49:01,066 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:49:03,889 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:49:03,889 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:49:33,958 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:49:36,350 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:49:36,350 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:49:36,363 [INFO]   [ 162/226] ✓ Fin DHC   : 8 yrs
+2026-09-29 01:50:08,177 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:50:12,129 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:50:12,129 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:50:12,548 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:50:12,548 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:50:12,561 [INFO]   [ 163/226] ✓ Fin SMB   : 8 yrs
+2026-09-29 01:50:14,684 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:50:14,684 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:50:15,094 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:50:15,094 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:50:15,108 [INFO]   [ 164/226] ✓ Fin VFG   : 8 yrs
+2026-09-29 01:50:17,231 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:50:17,232 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:50:17,604 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:50:17,605 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:50:17,617 [INFO]   [ 165/226] ✓ Fin DSN   : 8 yrs
+2026-09-29 01:50:19,741 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:50:19,741 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:50:20,116 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:50:20,116 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:50:20,129 [INFO]   [ 166/226] ✓ Fin IMP   : 8 yrs
+2026-09-29 01:50:22,288 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:50:22,288 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:50:22,693 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:50:22,693 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:50:22,708 [INFO]   [ 167/226] ✓ Fin BVH   : 8 yrs
+2026-09-29 01:50:54,679 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:50:57,409 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:50:57,410 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:51:27,478 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:51:29,888 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:51:29,888 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:51:29,901 [INFO]   [ 168/226] ✓ Fin CDN   : 8 yrs
+2026-09-29 01:52:11,264 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:52:44,315 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:52:48,416 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:52:48,416 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:52:49,092 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:52:49,092 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:52:49,105 [INFO]   [ 169/226] ✓ Fin MSH   : 8 yrs
+2026-09-29 01:53:30,476 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:54:03,537 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:54:36,724 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:54:36,725 [WARNING]   [ 170/226] ✗ Fin TCB   : API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:54:48,698 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:54:48,698 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:54:49,239 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:54:49,239 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:54:49,253 [INFO]   [ 171/226] ✓ Fin FOC   : 8 yrs
+2026-09-29 01:55:01,575 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:55:01,576 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:55:02,197 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:55:02,197 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:55:02,210 [INFO]   [ 172/226] ✓ Fin DPG   : 8 yrs
+2026-09-29 01:55:34,209 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:56:06,535 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:56:39,174 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:56:52,685 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:56:52,686 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:57:22,966 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:57:25,383 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:57:25,384 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:57:25,397 [INFO]   [ 173/226] ✓ Fin DPR   : 8 yrs
+2026-09-29 01:57:27,950 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:57:27,950 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:57:28,698 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:57:28,699 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:57:28,717 [INFO]   [ 174/226] ✓ Fin SIP   : 8 yrs
+2026-09-29 01:57:30,804 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:57:30,804 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:57:31,182 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:57:31,183 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:57:31,196 [INFO]   [ 175/226] ✓ Fin FMC   : 8 yrs
+2026-09-29 01:57:33,286 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:57:33,286 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:57:33,643 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:57:33,643 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:57:33,657 [INFO]   [ 176/226] ✓ Fin BCM   : 8 yrs
+2026-09-29 01:57:35,719 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:57:35,719 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:57:36,080 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:57:36,080 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:57:36,093 [INFO]   [ 177/226] ✓ Fin PMW   : 8 yrs
+2026-09-29 01:57:38,127 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:57:38,128 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:57:38,484 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:57:38,485 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:57:38,497 [INFO]   [ 178/226] ✓ Fin NAF   : 8 yrs
+2026-09-29 01:58:10,561 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:58:42,881 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:58:45,702 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:58:45,702 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:58:46,075 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:58:46,075 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:58:46,089 [INFO]   [ 179/226] ✓ Fin STG   : 8 yrs
+2026-09-29 01:58:48,195 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:58:48,195 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:58:48,587 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:58:48,587 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:58:48,600 [INFO]   [ 180/226] ✓ Fin D2D   : 8 yrs
+2026-09-29 01:58:50,739 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:58:50,739 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:58:51,118 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:58:51,119 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:58:51,132 [INFO]   [ 181/226] ✓ Fin MSR   : 8 yrs
+2026-09-29 01:58:53,265 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:58:53,265 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:58:53,671 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:58:53,671 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:58:53,683 [INFO]   [ 182/226] ✓ Fin MML   : 8 yrs
+2026-09-29 01:58:55,778 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:58:55,778 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:58:56,183 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:58:56,183 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:58:56,196 [INFO]   [ 183/226] ✓ Fin VTP   : 8 yrs
+2026-09-29 01:58:58,328 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:58:58,328 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:58:58,723 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:58:58,723 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:58:58,737 [INFO]   [ 184/226] ✓ Fin NET   : 8 yrs
+2026-09-29 01:59:01,262 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:59:01,262 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:59:31,856 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 01:59:34,518 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:59:34,518 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:59:34,531 [INFO]   [ 185/226] ✓ Fin CQN   : 8 yrs
+2026-09-29 01:59:46,592 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:59:46,593 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:59:46,970 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:59:46,970 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:59:46,984 [INFO]   [ 186/226] ✓ Fin BWE   : 8 yrs
+2026-09-29 01:59:49,104 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:59:49,104 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:59:49,482 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:59:49,482 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 01:59:49,495 [INFO]   [ 187/226] ✓ Fin TDP   : 8 yrs
+2026-09-29 02:00:21,272 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 02:00:23,979 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:00:23,979 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:00:24,366 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:00:24,366 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:00:24,378 [INFO]   [ 188/226] ✓ Fin HDB   : 8 yrs
+2026-09-29 02:00:26,662 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:00:26,663 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:00:27,035 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:00:27,035 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:00:27,047 [INFO]   [ 189/226] ✓ Fin VCR   : 8 yrs
+2026-09-29 02:00:29,173 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:00:29,173 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:00:29,518 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:00:29,518 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:00:29,532 [INFO]   [ 190/226] ✓ Fin MCM   : 8 yrs
+2026-09-29 02:00:31,629 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:00:31,629 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:00:32,030 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:00:32,030 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:00:32,043 [INFO]   [ 191/226] ✓ Fin CTR   : 8 yrs
+2026-09-29 02:00:34,108 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:00:34,108 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:00:34,435 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:00:34,435 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:00:34,446 [INFO]   [ 192/226] ✓ Fin SCG   : 6 yrs
+2026-09-29 02:00:36,544 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:00:36,544 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:00:36,910 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:00:36,911 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:00:36,924 [INFO]   [ 193/226] ✓ Fin FPT   : 8 yrs
+2026-09-29 02:01:08,920 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 02:01:11,316 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:01:11,316 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:01:11,677 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:01:11,677 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:01:11,690 [INFO]   [ 194/226] ✓ Fin PAP   : 8 yrs
+2026-09-29 02:01:14,130 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:01:14,130 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:01:14,503 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:01:14,503 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:01:14,516 [INFO]   [ 195/226] ✓ Fin DGW   : 8 yrs
+2026-09-29 02:01:16,553 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:01:16,553 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:01:16,904 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:01:16,904 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:01:16,916 [INFO]   [ 196/226] ✓ Fin KSF   : 6 yrs
+2026-09-29 02:01:18,976 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:01:18,976 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:01:19,321 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:01:19,322 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:01:19,335 [INFO]   [ 197/226] ✓ Fin DNW   : 8 yrs
+2026-09-29 02:01:21,372 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:01:21,372 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:01:21,703 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:01:21,703 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:01:21,715 [INFO]   [ 198/226] ✓ Fin TIN   : 8 yrs
+2026-09-29 02:01:23,825 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:01:23,829 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:01:24,195 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:01:24,195 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:01:24,208 [INFO]   [ 199/226] ✓ Fin CC1   : 8 yrs
+2026-09-29 02:01:26,567 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:01:26,568 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:01:26,939 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:01:26,939 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:01:26,951 [INFO]   [ 200/226] ✓ Fin SZG   : 6 yrs
+2026-09-29 02:01:29,057 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:01:29,057 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:01:29,437 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:01:29,437 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:01:29,450 [INFO]   [ 201/226] ✓ Fin HAH   : 8 yrs
+2026-09-29 02:01:31,538 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:01:31,538 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:01:31,900 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:01:31,900 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:01:31,911 [INFO]   [ 202/226] ✓ Fin GEE   : 5 yrs
+2026-09-29 02:01:33,964 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:01:33,965 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:01:34,347 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:01:34,348 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:01:34,359 [INFO]   [ 203/226] ✓ Fin BAF   : 7 yrs
+2026-09-29 02:01:36,436 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:01:36,436 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:01:36,796 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:01:36,796 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:01:36,806 [INFO]   [ 204/226] ✓ Fin PAT   : 5 yrs
+2026-09-29 02:01:38,925 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:01:38,925 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:01:39,263 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:01:39,263 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:01:39,276 [INFO]   [ 205/226] ✓ Fin SSH   : 7 yrs
+2026-09-29 02:01:42,176 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:01:42,176 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:01:42,553 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:01:42,553 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:01:42,566 [INFO]   [ 206/226] ✓ Fin VPI   : 8 yrs
+2026-09-29 02:01:44,624 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:01:44,624 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:01:45,011 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:01:45,011 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:01:45,025 [INFO]   [ 207/226] ✓ Fin FRT   : 8 yrs
+2026-09-29 02:01:47,150 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:01:47,150 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:01:47,490 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:01:47,491 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:01:47,505 [INFO]   [ 208/226] ✓ Fin VNZ   : 8 yrs
+2026-09-29 02:01:49,567 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:01:49,567 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:01:49,928 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:01:49,928 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:01:49,941 [INFO]   [ 209/226] ✓ Fin IDP   : 8 yrs
+2026-09-29 02:02:21,442 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 02:02:25,138 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:02:25,139 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:02:55,209 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 02:03:27,820 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 02:03:30,199 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:03:30,199 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:03:30,214 [INFO]   [ 210/226] ✓ Fin ACG   : 8 yrs
+2026-09-29 02:04:02,146 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 02:04:05,901 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:04:05,901 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:04:06,552 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:04:06,552 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:04:06,565 [INFO]   [ 211/226] ✓ Fin PET   : 8 yrs
+2026-09-29 02:04:08,696 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:04:08,697 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:04:09,077 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:04:09,077 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:04:09,091 [INFO]   [ 212/226] ✓ Fin THD   : 8 yrs
+2026-09-29 02:04:41,027 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 02:04:43,638 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:04:43,638 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:04:44,028 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:04:44,028 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:04:44,041 [INFO]   [ 213/226] ✓ Fin PDN   : 8 yrs
+2026-09-29 02:04:46,510 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:04:46,511 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:04:46,902 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:04:46,902 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:04:46,918 [INFO]   [ 214/226] ✓ Fin DHT   : 8 yrs
+2026-09-29 02:04:49,044 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:04:49,044 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:04:49,431 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:04:49,431 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:04:49,445 [INFO]   [ 215/226] ✓ Fin AIG   : 8 yrs
+2026-09-29 02:04:51,596 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:04:51,596 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:05:21,668 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 02:05:24,368 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:05:24,368 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:05:24,381 [INFO]   [ 216/226] ✓ Fin TMP   : 8 yrs
+2026-09-29 02:05:27,033 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:05:27,033 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:05:27,358 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:05:27,359 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:05:27,370 [INFO]   [ 217/226] ✓ Fin VPL   : 6 yrs
+2026-09-29 02:06:08,731 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-29 02:06:12,362 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:06:12,362 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:06:12,805 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:06:12,805 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:06:12,820 [INFO]   [ 218/226] ✓ Fin TCX   : 8 yrs
+2026-09-29 02:06:15,030 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:06:15,030 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:06:15,447 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:06:15,447 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:06:15,463 [INFO]   [ 219/226] ✓ Fin VCK   : 8 yrs
+2026-09-29 02:06:17,581 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:06:17,581 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:06:17,940 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:06:17,941 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:06:17,953 [INFO]   [ 220/226] ✓ Fin TOS   : 6 yrs
+2026-09-29 02:06:20,080 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:06:20,080 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:06:20,434 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:06:20,434 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:06:20,447 [INFO]   [ 221/226] ✓ Fin DCV   : 8 yrs
+2026-09-29 02:06:22,507 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:06:22,507 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:06:22,841 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:06:22,841 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:06:22,850 [INFO]   [ 222/226] ✓ Fin GEL   : 4 yrs
+2026-09-29 02:06:24,899 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:06:24,899 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:06:25,468 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:06:25,468 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:06:25,477 [INFO]   [ 223/226] ✓ Fin HPA   : 4 yrs
+2026-09-29 02:06:27,550 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:06:27,550 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:06:27,884 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:06:27,884 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:06:27,894 [INFO]   [ 224/226] ✓ Fin VVS   : 4 yrs
+2026-09-29 02:06:29,923 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:06:29,923 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:06:30,271 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:06:30,271 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:06:30,279 [INFO]   [ 225/226] ✓ Fin DMX   : 3 yrs
+2026-09-29 02:06:32,333 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:06:32,334 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:06:32,659 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:06:32,659 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-29 02:06:32,665 [INFO]   [ 226/226] ✓ Fin RGG   : 2 yrs
+2026-09-29 02:06:33,901 [INFO] ✅ hose_financials_annual.csv: 224 mã
+2026-09-29 02:06:33,901 [INFO] Building final monthly panel...
