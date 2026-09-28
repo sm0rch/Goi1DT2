@@ -271,3 +271,703 @@ Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and wil
 2026-09-28 16:47:17,855 [INFO]   [ 16/100] ✓ CTS    Fin: 8 yrs
 2026-09-28 16:47:50 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
 2026-09-28 16:47:50,074 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 16:48:22 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 16:48:22,379 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 16:48:24,818 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:48:24,818 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 16:48:25,186 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:48:25,187 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:48:25,199 [INFO]   [ 17/100] ✓ DBC    Fin: 8 yrs
+2026-09-28 16:48:57 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 16:48:57,907 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 16:49:30 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 16:49:30,256 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 16:49:32,655 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:49:32,656 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 16:49:33,011 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:49:33,011 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:49:33,021 [INFO]   [ 18/100] ✓ DCM    Fin: 8 yrs
+2026-09-28 16:50:05 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 16:50:05,815 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 16:50:08,232 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:50:08,232 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 16:50:08,592 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:50:08,593 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:50:08,606 [INFO]   [ 19/100] ✓ DGW    Fin: 8 yrs
+2026-09-28 16:50:11,469 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:50:11,469 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 16:50:11,823 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:50:11,823 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:50:11,837 [INFO]   [ 20/100] ✓ DIG    Fin: 8 yrs
+2026-09-28 16:50:44 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 16:50:44,498 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 16:50:46,912 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:50:46,912 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 16:50:47,250 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:50:47,250 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:50:47,264 [INFO]   [ 21/100] ✓ DPM    Fin: 8 yrs
+2026-09-28 16:50:50,244 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:50:50,244 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 16:50:50,654 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:50:50,654 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:50:50,670 [INFO]   [ 22/100] ✓ DSE    Fin: 8 yrs
+2026-09-28 16:50:53,512 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:50:53,512 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 16:50:53,863 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:50:53,864 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:50:53,877 [INFO]   [ 23/100] ✓ DXG    Fin: 8 yrs
+2026-09-28 16:50:56,280 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:50:56,280 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:50:56,672 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:50:56,672 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:50:56,685 [INFO]   [ 24/100] ✓ EIB    Fin: 8 yrs
+2026-09-28 16:50:59,058 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:50:59,058 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:50:59,425 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:50:59,425 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:50:59,441 [INFO]   [ 25/100] ✓ EVF    Fin: 8 yrs
+2026-09-28 16:51:01,842 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:51:01,842 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 16:51:02,182 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:51:02,182 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:51:02,194 [INFO]   [ 26/100] ✓ FPT    Fin: 8 yrs
+2026-09-28 16:51:04,578 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:51:04,578 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 16:51:04,936 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:51:04,936 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:51:04,949 [INFO]   [ 27/100] ✓ FRT    Fin: 8 yrs
+2026-09-28 16:51:07,437 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:51:07,437 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 16:51:07,854 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:51:07,854 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:51:07,869 [INFO]   [ 28/100] ✓ FTS    Fin: 8 yrs
+2026-09-28 16:51:40 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 16:51:40,493 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 16:51:42,906 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:51:42,906 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 16:52:13 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 16:52:13,152 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 16:52:45 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 16:52:45,414 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 16:53:17 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 16:53:17,505 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 16:53:49 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 16:53:49,234 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 16:53:51,554 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:53:51,554 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 16:53:51,909 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:53:51,909 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:53:51,922 [INFO]   [ 29/100] ✓ GAS    Fin: 8 yrs
+2026-09-28 16:53:54,314 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:53:54,314 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 16:53:54,700 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:53:54,700 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:53:54,710 [INFO]   [ 30/100] ✓ GEE    Fin: 5 yrs
+2026-09-28 16:54:26 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 16:54:26,803 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 16:54:58 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 16:54:58,888 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 16:55:01,591 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:55:01,592 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 16:55:01,951 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:55:01,951 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:55:01,963 [INFO]   [ 31/100] ✓ GEX    Fin: 8 yrs
+2026-09-28 16:55:34 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 16:55:34,636 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 16:55:37,054 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:55:37,054 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 16:55:37,427 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:55:37,428 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:55:37,441 [INFO]   [ 32/100] ✓ GMD    Fin: 8 yrs
+2026-09-28 16:55:40,065 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:55:40,065 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 16:55:40,458 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:55:40,459 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:55:40,470 [INFO]   [ 33/100] ✓ GVR    Fin: 8 yrs
+2026-09-28 16:55:42,879 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:55:42,879 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 16:55:43,260 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:55:43,260 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:55:43,270 [INFO]   [ 34/100] ✓ HAG    Fin: 8 yrs
+2026-09-28 16:55:45,785 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:55:45,785 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 16:56:16 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 16:56:16,068 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 16:56:48 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 16:56:48,492 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 16:57:20 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 16:57:20,585 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 16:57:52 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 16:57:52,819 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 16:57:55,313 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:57:55,313 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 16:57:55,741 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:57:55,741 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:57:55,755 [INFO]   [ 35/100] ✓ HCM    Fin: 8 yrs
+2026-09-28 16:57:58,611 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:57:58,612 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:58:28 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 16:58:28,674 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 16:58:31,056 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:58:31,056 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:58:31,069 [INFO]   [ 36/100] ✓ HDB    Fin: 8 yrs
+2026-09-28 16:58:33,857 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:58:33,857 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 16:58:34,244 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:58:34,244 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:58:34,257 [INFO]   [ 37/100] ✓ HDG    Fin: 8 yrs
+2026-09-28 16:58:37,115 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:58:37,115 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 16:59:07 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 16:59:07,380 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 16:59:09,754 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:59:09,754 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:59:09,765 [INFO]   [ 38/100] ✓ HHV    Fin: 8 yrs
+2026-09-28 16:59:12,305 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:59:12,305 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 16:59:42 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 16:59:42,372 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 16:59:45,061 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:59:45,061 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:59:45,075 [INFO]   [ 39/100] ✓ HPG    Fin: 8 yrs
+2026-09-28 16:59:47,875 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:59:47,875 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 17:00:18 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:00:18,117 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:00:20,718 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:00:20,718 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:00:20,731 [INFO]   [ 40/100] ✓ HSG    Fin: 8 yrs
+2026-09-28 17:00:52 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:00:52,483 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:00:54,878 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:00:54,879 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 17:00:55,251 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:00:55,251 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:00:55,264 [INFO]   [ 41/100] ✓ HT1    Fin: 8 yrs
+2026-09-28 17:00:57,692 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:00:57,692 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 17:00:58,067 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:00:58,067 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:00:58,080 [INFO]   [ 42/100] ✓ KBC    Fin: 8 yrs
+2026-09-28 17:01:29 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:01:29,816 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:01:32,211 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:01:32,211 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 17:01:32,575 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:01:32,575 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:01:32,588 [INFO]   [ 43/100] ✓ KDC    Fin: 8 yrs
+2026-09-28 17:01:35,005 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:01:35,005 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 17:01:35,363 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:01:35,363 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:01:35,376 [INFO]   [ 44/100] ✓ KDH    Fin: 8 yrs
+2026-09-28 17:01:37,775 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:01:37,775 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 17:01:38,161 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:01:38,162 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:01:38,176 [INFO]   [ 45/100] ✓ KOS    Fin: 8 yrs
+2026-09-28 17:01:40,513 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:01:40,514 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:01:40,864 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:01:40,865 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:01:40,878 [INFO]   [ 46/100] ✓ LPB    Fin: 8 yrs
+2026-09-28 17:01:43,240 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:01:43,240 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:01:43,620 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:01:43,620 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:01:43,633 [INFO]   [ 47/100] ✓ MBB    Fin: 8 yrs
+2026-09-28 17:01:46,068 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:01:46,068 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 17:01:46,455 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:01:46,455 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:01:46,469 [INFO]   [ 48/100] ✓ MCH    Fin: 8 yrs
+2026-09-28 17:01:48,863 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:01:48,863 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:01:49,233 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:01:49,233 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:01:49,246 [INFO]   [ 49/100] ✓ MSB    Fin: 8 yrs
+2026-09-28 17:01:51,649 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:01:51,649 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 17:01:52,033 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:01:52,034 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:01:52,046 [INFO]   [ 50/100] ✓ MSN    Fin: 8 yrs
+2026-09-28 17:01:54,432 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:01:54,432 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 17:01:54,785 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:01:54,786 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:01:54,794 [INFO]   [ 51/100] ✓ MWG    Fin: 8 yrs
+2026-09-28 17:01:57,199 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:01:57,199 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:01:57,583 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:01:57,583 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:01:57,596 [INFO]   [ 52/100] ✓ NAB    Fin: 8 yrs
+2026-09-28 17:02:29 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:02:29,715 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:03:01 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:03:01,781 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:03:04,365 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:03:04,366 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 17:03:34 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:03:34,436 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:03:36,820 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:03:36,820 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:03:36,831 [INFO]   [ 53/100] ✓ NKG    Fin: 8 yrs
+2026-09-28 17:04:09 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:04:09,923 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:04:42 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:04:42,009 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:04:44,427 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:04:44,427 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 17:04:44,786 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:04:44,786 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:04:44,800 [INFO]   [ 54/100] ✓ NLG    Fin: 8 yrs
+2026-09-28 17:05:17 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:05:17,588 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:05:19,987 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:05:19,988 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 17:05:20,390 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:05:20,390 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:05:20,404 [INFO]   [ 55/100] ✓ NT2    Fin: 8 yrs
+2026-09-28 17:05:23,221 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:05:23,221 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 17:05:23,574 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:05:23,574 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:05:23,587 [INFO]   [ 56/100] ✓ NVL    Fin: 8 yrs
+2026-09-28 17:05:26,377 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:05:26,377 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:05:26,746 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:05:26,747 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:05:26,763 [INFO]   [ 57/100] ✓ OCB    Fin: 8 yrs
+2026-09-28 17:05:58 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:05:58,813 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:06:30 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:06:30,893 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:06:33,322 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:06:33,322 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 17:06:33,670 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:06:33,670 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:06:33,681 [INFO]   [ 58/100] ✓ PAN    Fin: 8 yrs
+2026-09-28 17:06:36,752 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:06:36,752 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 17:06:37,114 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:06:37,115 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:06:37,128 [INFO]   [ 59/100] ✓ PC1    Fin: 8 yrs
+2026-09-28 17:06:39,510 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:06:39,513 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 17:07:09 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:07:09,799 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:07:42 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:07:42,067 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:07:44,733 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:07:44,733 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:07:44,745 [INFO]   [ 60/100] ✓ PDR    Fin: 8 yrs
+2026-09-28 17:07:47,611 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:07:47,611 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 17:07:47,968 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:07:47,968 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:07:47,981 [INFO]   [ 61/100] ✓ PHR    Fin: 8 yrs
+2026-09-28 17:08:19 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:08:19,739 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:08:51 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:08:51,375 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:08:56,196 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:08:56,196 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 17:08:56,905 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:08:56,905 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:08:56,919 [INFO]   [ 62/100] ✓ PLX    Fin: 8 yrs
+2026-09-28 17:09:29 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:09:29,146 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:09:31,915 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:09:31,915 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 17:10:01 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:10:01,990 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:10:34 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:10:34,078 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:10:36,457 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:10:36,457 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:10:36,470 [INFO]   [ 63/100] ✓ PNJ    Fin: 8 yrs
+2026-09-28 17:10:39,248 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:10:39,248 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 17:10:39,602 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:10:39,602 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:10:39,615 [INFO]   [ 64/100] ✓ POW    Fin: 8 yrs
+2026-09-28 17:10:42,371 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:10:42,371 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 17:10:42,728 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:10:42,728 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:10:42,741 [INFO]   [ 65/100] ✓ PVD    Fin: 8 yrs
+2026-09-28 17:11:14 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:11:14,860 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:11:17,322 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:11:17,322 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 17:11:47 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:11:47,388 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:11:49,763 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:11:49,764 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:11:49,776 [INFO]   [ 66/100] ✓ PVT    Fin: 8 yrs
+2026-09-28 17:11:52,690 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:11:52,691 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 17:12:22 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:12:22,767 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:12:54 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:12:54,862 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:12:57,259 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:12:57,260 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:12:57,273 [INFO]   [ 67/100] ✓ REE    Fin: 8 yrs
+2026-09-28 17:13:00,108 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:13:00,108 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 17:13:00,457 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:13:00,458 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:13:00,471 [INFO]   [ 68/100] ✓ SAB    Fin: 8 yrs
+2026-09-28 17:13:32 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:13:32,751 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:13:35,164 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:13:35,165 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 17:13:35,530 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:13:35,530 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:13:35,544 [INFO]   [ 69/100] ✓ SBT    Fin: 8 yrs
+2026-09-28 17:14:08 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:14:08,184 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:14:40 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:14:40,702 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:14:43,152 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:14:43,152 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:14:43,514 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:14:43,514 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:14:43,526 [INFO]   [ 70/100] ✓ SHB    Fin: 8 yrs
+2026-09-28 17:14:46,283 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:14:46,283 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 17:15:16 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:15:16,531 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:15:48 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:15:48,816 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:16:20 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:16:20,897 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:16:52 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:16:52,955 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:17:25 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:17:25,042 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:17:27,437 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:17:27,437 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 17:17:57 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:17:57,692 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:18:29 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:18:29,784 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:18:32,444 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:18:32,444 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:18:32,456 [INFO]   [ 71/100] ✓ SIP    Fin: 8 yrs
+2026-09-28 17:19:04 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:19:04,926 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:19:07,341 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:19:07,341 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 17:19:07,696 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:19:07,696 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:19:07,709 [INFO]   [ 72/100] ✓ SJS    Fin: 8 yrs
+2026-09-28 17:19:10,270 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:19:10,270 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:19:10,613 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:19:10,613 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:19:10,625 [INFO]   [ 73/100] ✓ SSB    Fin: 8 yrs
+2026-09-28 17:19:13,097 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:19:13,098 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 17:19:43 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:19:43,165 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:19:46,008 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:19:46,008 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:19:46,024 [INFO]   [ 74/100] ✓ SSI    Fin: 8 yrs
+2026-09-28 17:19:48,819 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:19:48,819 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:19:49,173 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:19:49,174 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:19:49,186 [INFO]   [ 75/100] ✓ STB    Fin: 8 yrs
+2026-09-28 17:20:20 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:20:20,923 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:20:23,631 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:20:23,631 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 17:20:23,979 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:20:23,979 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:20:23,987 [INFO]   [ 76/100] ✓ TAL    Fin: 4 yrs
+2026-09-28 17:20:26,378 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:20:26,378 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:20:26,738 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:20:26,738 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:20:26,752 [INFO]   [ 77/100] ✓ TCB    Fin: 8 yrs
+2026-09-28 17:20:29,121 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:20:29,124 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 17:20:29,477 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:20:29,477 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:20:29,494 [INFO]   [ 78/100] ✓ TCH    Fin: 8 yrs
+2026-09-28 17:20:31,987 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:20:31,987 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 17:20:32,386 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:20:32,386 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:20:32,401 [INFO]   [ 79/100] ✓ TCX    Fin: 8 yrs
+2026-09-28 17:20:34,765 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:20:34,765 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:20:35,145 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:20:35,145 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:20:35,158 [INFO]   [ 80/100] ✓ TPB    Fin: 8 yrs
+2026-09-28 17:21:07 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:21:07,212 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:21:09,945 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:21:09,945 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:21:10,328 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:21:10,329 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:21:10,343 [INFO]   [ 81/100] ✓ VCB    Fin: 8 yrs
+2026-09-28 17:21:12,764 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:21:12,764 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 17:21:13,122 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:21:13,122 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:21:13,134 [INFO]   [ 82/100] ✓ VCG    Fin: 8 yrs
+2026-09-28 17:21:45 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:21:45,466 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:21:47,982 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:21:47,982 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 17:22:18 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:22:18,253 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:22:20,965 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:22:20,965 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:22:20,980 [INFO]   [ 83/100] ✓ VCI    Fin: 8 yrs
+2026-09-28 17:22:53 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:22:53,446 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:22:55,996 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:22:55,996 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 17:23:26 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:23:26,069 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:23:28,852 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:23:28,853 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:23:28,868 [INFO]   [ 84/100] ✓ VCK    Fin: 8 yrs
+2026-09-28 17:23:31,672 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:23:31,672 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 17:23:32,060 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:23:32,060 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:23:32,072 [INFO]   [ 85/100] ✓ VGC    Fin: 8 yrs
+2026-09-28 17:24:03 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:24:03,828 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:24:06,457 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:24:06,457 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 17:24:36 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:24:36,528 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:24:38,918 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:24:38,918 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:24:38,929 [INFO]   [ 86/100] ✓ VHC    Fin: 8 yrs
+2026-09-28 17:24:41,864 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:24:41,864 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 17:25:11 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:25:11,941 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:25:14,321 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:25:14,321 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:25:14,334 [INFO]   [ 87/100] ✓ VHM    Fin: 8 yrs
+2026-09-28 17:25:17,064 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:25:17,064 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:25:17,418 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:25:17,418 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:25:17,431 [INFO]   [ 88/100] ✓ VIB    Fin: 8 yrs
+2026-09-28 17:25:20,269 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:25:20,270 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 17:25:20,621 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:25:20,621 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:25:20,634 [INFO]   [ 89/100] ✓ VIC    Fin: 8 yrs
+2026-09-28 17:25:33,301 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:25:33,304 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 17:25:33,781 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:25:33,781 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:25:33,796 [INFO]   [ 90/100] ✓ VIX    Fin: 8 yrs
+2026-09-28 17:25:36,359 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:25:36,360 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 17:25:36,729 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:25:36,729 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:25:36,741 [INFO]   [ 91/100] ✓ VJC    Fin: 8 yrs
+2026-09-28 17:26:08 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:26:08,492 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:26:11,252 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:26:11,252 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 17:26:11,698 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:26:11,698 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:26:11,712 [INFO]   [ 92/100] ✓ VND    Fin: 8 yrs
+2026-09-28 17:26:23,995 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:26:23,995 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 17:26:24,350 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:26:24,350 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:26:24,362 [INFO]   [ 93/100] ✓ VNM    Fin: 8 yrs
+2026-09-28 17:26:57 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:26:57,157 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:27:29 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:27:29,234 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:28:01 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:28:01,331 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:28:13,154 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:28:13,154 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:28:13,857 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:28:13,857 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:28:13,870 [INFO]   [ 94/100] ✓ VPB    Fin: 8 yrs
+2026-09-28 17:28:46 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:28:46,076 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:28:48,452 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:28:48,453 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 17:29:18 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:29:18,726 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:29:21,110 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:29:21,110 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:29:21,123 [INFO]   [ 95/100] ✓ VPI    Fin: 8 yrs
+2026-09-28 17:29:53 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:29:53,839 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:29:56,474 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:29:56,474 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 17:30:26 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:30:26,539 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:30:29,162 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:30:29,165 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:30:29,174 [INFO]   [ 96/100] ✓ VPL    Fin: 6 yrs
+2026-09-28 17:30:32,076 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:30:32,076 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 17:30:32,516 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:30:32,516 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:30:32,532 [INFO]   [ 97/100] ✓ VPX    Fin: 8 yrs
+2026-09-28 17:30:34,899 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:30:34,899 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 17:31:04 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:31:04,964 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:31:37 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:31:37,212 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:32:09 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:32:09,298 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:32:41 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:32:41,577 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:33:13 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:33:13,658 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:33:46 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:33:46,015 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:34:18 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:34:18,002 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:34:20,707 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:34:20,707 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 17:34:21,050 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:34:21,051 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:34:21,061 [INFO]   [ 98/100] ✓ VRE    Fin: 8 yrs
+2026-09-28 17:34:53 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:34:53,210 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 17:34:55,495 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:34:55,495 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 17:34:56,180 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:34:56,180 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:34:56,192 [INFO]   [ 99/100] ✓ VSC    Fin: 8 yrs
+2026-09-28 17:34:58,648 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:34:58,648 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 17:34:59,021 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:34:59,021 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 17:34:59,034 [INFO]   [100/100] ✓ VTP    Fin: 8 yrs
+The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+2026-09-28 17:35:00,565 [INFO] Building Monthly Panel with FF5 variables...
+DataFrameGroupBy.apply operated on the grouping columns. This behavior is deprecated, and in a future version of pandas the grouping columns will be excluded from the operation. Either pass `include_groups=False` to exclude the groupings or explicitly select the grouping columns after groupby to silence this warning.
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                                                                 ┃
+┃                                                                                 ┃
+┃  🚀 VNSTOCK INSIDERS PROGRAM - NÂNG TẦM TRẢI NGHIỆM CỦA BẠN! 🚀                 ┃
+┃                                                                                 ┃
+┃  Nếu bạn cảm thấy khó chịu với các thông báo và quảng cáo:                      ┃
+┃                                                                                 ┃
+┃  ✨ Ẩn toàn bộ thông báo và quảng cáo phiền hà                                  ┃
+┃  🔓 Mở rộng khả năng sử dụng API tối đa                                         ┃
+┃  ⚡ Tăng tốc tải dữ liệu từ 5-8 lần                                              ┃
+┃  📈 Tăng giới hạn truy cập API lên đến 5 lần                                    ┃
+┃  🤖 Dùng AI Agent viết code hiệu quả với tài liệu Agent Guide                   ┃
+┃                                                                                 ┃
+┃  🔗 Tham gia ngay: https://vnstocks.com/insiders-program.                       ┃
+┃                                                                                 ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+<IPython.core.display.HTML object>
+<IPython.core.display.HTML object>
+Traceback (most recent call last):
+  File "/Users/wuocnguyen/Goi1DT2/src/update_data_collection.py", line 259, in <module>
+    main()
+  File "/Users/wuocnguyen/Goi1DT2/src/update_data_collection.py", line 199, in main
+    merged = pd.merge_asof(
+             ^^^^^^^^^^^^^^
+  File "/Users/wuocnguyen/.venv/lib/python3.11/site-packages/pandas/core/reshape/merge.py", line 708, in merge_asof
+    return op.get_result()
+           ^^^^^^^^^^^^^^^
+  File "/Users/wuocnguyen/.venv/lib/python3.11/site-packages/pandas/core/reshape/merge.py", line 1927, in get_result
+    join_index, left_indexer, right_indexer = self._get_join_info()
+                                              ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wuocnguyen/.venv/lib/python3.11/site-packages/pandas/core/reshape/merge.py", line 1152, in _get_join_info
+    (left_indexer, right_indexer) = self._get_join_indexers()
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wuocnguyen/.venv/lib/python3.11/site-packages/pandas/core/reshape/merge.py", line 2240, in _get_join_indexers
+    right_values = self._convert_values_for_libjoin(right_values, "right")
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wuocnguyen/.venv/lib/python3.11/site-packages/pandas/core/reshape/merge.py", line 2182, in _convert_values_for_libjoin
+    raise ValueError(f"Merge keys contain null values on {side} side")
+ValueError: Merge keys contain null values on right side
