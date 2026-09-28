@@ -1,0 +1,273 @@
+2026-09-28 16:41:34,019 [INFO] Fetching Historical Shares...
+Parsing dates in %d/%m/%Y format when dayfirst=False (the default) was specified. Pass `dayfirst=True` or specify a format to silence this warning.
+2026-09-28 16:41:34,377 [INFO]   [  1/100] ✓ ACB    CapHist: 20 events
+Parsing dates in %d/%m/%Y format when dayfirst=False (the default) was specified. Pass `dayfirst=True` or specify a format to silence this warning.
+2026-09-28 16:41:36,065 [INFO]   [  2/100] ✓ ANV    CapHist: 7 events
+Parsing dates in %d/%m/%Y format when dayfirst=False (the default) was specified. Pass `dayfirst=True` or specify a format to silence this warning.
+2026-09-28 16:41:37,755 [INFO]   [  3/100] ✓ BAF    CapHist: 9 events
+Parsing dates in %d/%m/%Y format when dayfirst=False (the default) was specified. Pass `dayfirst=True` or specify a format to silence this warning.
+2026-09-28 16:41:39,445 [INFO]   [  4/100] ✓ BCM    CapHist: 2 events
+Parsing dates in %d/%m/%Y format when dayfirst=False (the default) was specified. Pass `dayfirst=True` or specify a format to silence this warning.
+2026-09-28 16:41:41,137 [INFO]   [  5/100] ✓ BID    CapHist: 10 events
+Parsing dates in %d/%m/%Y format when dayfirst=False (the default) was specified. Pass `dayfirst=True` or specify a format to silence this warning.
+2026-09-28 16:41:42,835 [INFO]   [  6/100] ✓ BMP    CapHist: 6 events
+2026-09-28 16:41:44,524 [INFO]   [  7/100] ✓ BSI    CapHist: 15 events
+2026-09-28 16:41:46,241 [INFO]   [  8/100] ✓ BSR    CapHist: 3 events
+2026-09-28 16:41:47,939 [INFO]   [  9/100] ✓ BVH    CapHist: 5 events
+2026-09-28 16:41:49,616 [INFO]   [ 10/100] ✓ BWE    CapHist: 4 events
+2026-09-28 16:41:51,303 [INFO]   [ 11/100] ✓ CII    CapHist: 27 events
+Parsing dates in %d/%m/%Y format when dayfirst=False (the default) was specified. Pass `dayfirst=True` or specify a format to silence this warning.
+2026-09-28 16:41:52,970 [INFO]   [ 12/100] ✓ CMG    CapHist: 12 events
+Parsing dates in %d/%m/%Y format when dayfirst=False (the default) was specified. Pass `dayfirst=True` or specify a format to silence this warning.
+2026-09-28 16:41:54,651 [INFO]   [ 13/100] ✓ CTD    CapHist: 20 events
+Parsing dates in %d/%m/%Y format when dayfirst=False (the default) was specified. Pass `dayfirst=True` or specify a format to silence this warning.
+2026-09-28 16:41:56,325 [INFO]   [ 14/100] ✓ CTG    CapHist: 10 events
+2026-09-28 16:41:58,038 [INFO]   [ 15/100] ✓ CTR    CapHist: 12 events
+2026-09-28 16:41:59,702 [INFO]   [ 16/100] ✓ CTS    CapHist: 10 events
+2026-09-28 16:42:01,410 [INFO]   [ 17/100] ✓ DBC    CapHist: 18 events
+Parsing dates in %d/%m/%Y format when dayfirst=False (the default) was specified. Pass `dayfirst=True` or specify a format to silence this warning.
+2026-09-28 16:42:03,091 [INFO]   [ 18/100] ✓ DCM    CapHist: 1 events
+2026-09-28 16:42:04,763 [INFO]   [ 19/100] ✓ DGW    CapHist: 23 events
+Parsing dates in %d/%m/%Y format when dayfirst=False (the default) was specified. Pass `dayfirst=True` or specify a format to silence this warning.
+2026-09-28 16:42:06,453 [INFO]   [ 20/100] ✓ DIG    CapHist: 20 events
+2026-09-28 16:42:08,137 [INFO]   [ 21/100] ✓ DPM    CapHist: 3 events
+Parsing dates in %d/%m/%Y format when dayfirst=False (the default) was specified. Pass `dayfirst=True` or specify a format to silence this warning.
+2026-09-28 16:42:09,827 [INFO]   [ 22/100] ✓ DSE    CapHist: 7 events
+Parsing dates in %d/%m/%Y format when dayfirst=False (the default) was specified. Pass `dayfirst=True` or specify a format to silence this warning.
+2026-09-28 16:42:11,520 [INFO]   [ 23/100] ✓ DXG    CapHist: 20 events
+Parsing dates in %d/%m/%Y format when dayfirst=False (the default) was specified. Pass `dayfirst=True` or specify a format to silence this warning.
+2026-09-28 16:42:13,198 [INFO]   [ 24/100] ✓ EIB    CapHist: 12 events
+Parsing dates in %d/%m/%Y format when dayfirst=False (the default) was specified. Pass `dayfirst=True` or specify a format to silence this warning.
+2026-09-28 16:42:14,860 [INFO]   [ 25/100] ✓ EVF    CapHist: 7 events
+2026-09-28 16:42:16,547 [INFO]   [ 26/100] ✓ FPT    CapHist: 26 events
+2026-09-28 16:42:18,245 [INFO]   [ 27/100] ✓ FRT    CapHist: 9 events
+Parsing dates in %d/%m/%Y format when dayfirst=False (the default) was specified. Pass `dayfirst=True` or specify a format to silence this warning.
+2026-09-28 16:42:19,927 [INFO]   [ 28/100] ✓ FTS    CapHist: 15 events
+Parsing dates in %d/%m/%Y format when dayfirst=False (the default) was specified. Pass `dayfirst=True` or specify a format to silence this warning.
+2026-09-28 16:42:21,605 [INFO]   [ 29/100] ✓ GAS    CapHist: 5 events
+Parsing dates in %d/%m/%Y format when dayfirst=False (the default) was specified. Pass `dayfirst=True` or specify a format to silence this warning.
+2026-09-28 16:42:23,289 [INFO]   [ 30/100] ✓ GEE    CapHist: 5 events
+Parsing dates in %d/%m/%Y format when dayfirst=False (the default) was specified. Pass `dayfirst=True` or specify a format to silence this warning.
+2026-09-28 16:42:24,955 [INFO]   [ 31/100] ✓ GEX    CapHist: 12 events
+2026-09-28 16:42:26,625 [INFO]   [ 32/100] ✓ GMD    CapHist: 21 events
+Parsing dates in %d/%m/%Y format when dayfirst=False (the default) was specified. Pass `dayfirst=True` or specify a format to silence this warning.
+2026-09-28 16:42:28,304 [INFO]   [ 33/100] ✓ GVR    CapHist: 1 events
+Parsing dates in %d/%m/%Y format when dayfirst=False (the default) was specified. Pass `dayfirst=True` or specify a format to silence this warning.
+2026-09-28 16:42:29,974 [INFO]   [ 34/100] ✓ HAG    CapHist: 15 events
+Parsing dates in %d/%m/%Y format when dayfirst=False (the default) was specified. Pass `dayfirst=True` or specify a format to silence this warning.
+2026-09-28 16:42:31,661 [INFO]   [ 35/100] ✓ HCM    CapHist: 14 events
+Parsing dates in %d/%m/%Y format when dayfirst=False (the default) was specified. Pass `dayfirst=True` or specify a format to silence this warning.
+2026-09-28 16:42:33,356 [INFO]   [ 36/100] ✓ HDB    CapHist: 28 events
+Parsing dates in %d/%m/%Y format when dayfirst=False (the default) was specified. Pass `dayfirst=True` or specify a format to silence this warning.
+2026-09-28 16:42:35,045 [INFO]   [ 37/100] ✓ HDG    CapHist: 24 events
+Parsing dates in %d/%m/%Y format when dayfirst=False (the default) was specified. Pass `dayfirst=True` or specify a format to silence this warning.
+2026-09-28 16:42:36,735 [INFO]   [ 38/100] ✓ HHV    CapHist: 13 events
+Parsing dates in %d/%m/%Y format when dayfirst=False (the default) was specified. Pass `dayfirst=True` or specify a format to silence this warning.
+2026-09-28 16:42:38,437 [INFO]   [ 39/100] ✓ HPG    CapHist: 17 events
+Parsing dates in %d/%m/%Y format when dayfirst=False (the default) was specified. Pass `dayfirst=True` or specify a format to silence this warning.
+2026-09-28 16:42:40,117 [INFO]   [ 40/100] ✓ HSG    CapHist: 24 events
+2026-09-28 16:42:41,786 [INFO]   [ 41/100] ✓ HT1    CapHist: 5 events
+Parsing dates in %d/%m/%Y format when dayfirst=False (the default) was specified. Pass `dayfirst=True` or specify a format to silence this warning.
+2026-09-28 16:42:43,485 [INFO]   [ 42/100] ✓ KBC    CapHist: 11 events
+Parsing dates in %d/%m/%Y format when dayfirst=False (the default) was specified. Pass `dayfirst=True` or specify a format to silence this warning.
+2026-09-28 16:42:45,176 [INFO]   [ 43/100] ✓ KDC    CapHist: 15 events
+2026-09-28 16:42:46,862 [INFO]   [ 44/100] ✓ KDH    CapHist: 19 events
+2026-09-28 16:42:48,533 [INFO]   [ 45/100] ✓ KOS    CapHist: 7 events
+Parsing dates in %d/%m/%Y format when dayfirst=False (the default) was specified. Pass `dayfirst=True` or specify a format to silence this warning.
+2026-09-28 16:42:50,191 [INFO]   [ 46/100] ✓ LPB    CapHist: 15 events
+Parsing dates in %d/%m/%Y format when dayfirst=False (the default) was specified. Pass `dayfirst=True` or specify a format to silence this warning.
+2026-09-28 16:42:51,877 [INFO]   [ 47/100] ✓ MBB    CapHist: 20 events
+Parsing dates in %d/%m/%Y format when dayfirst=False (the default) was specified. Pass `dayfirst=True` or specify a format to silence this warning.
+2026-09-28 16:42:53,542 [INFO]   [ 48/100] ✓ MCH    CapHist: 31 events
+2026-09-28 16:42:55,241 [INFO]   [ 49/100] ✓ MSB    CapHist: 11 events
+Parsing dates in %d/%m/%Y format when dayfirst=False (the default) was specified. Pass `dayfirst=True` or specify a format to silence this warning.
+2026-09-28 16:42:56,928 [INFO]   [ 50/100] ✓ MSN    CapHist: 25 events
+Parsing dates in %d/%m/%Y format when dayfirst=False (the default) was specified. Pass `dayfirst=True` or specify a format to silence this warning.
+2026-09-28 16:42:58,628 [INFO]   [ 51/100] ✓ MWG    CapHist: 21 events
+Parsing dates in %d/%m/%Y format when dayfirst=False (the default) was specified. Pass `dayfirst=True` or specify a format to silence this warning.
+2026-09-28 16:43:00,594 [INFO]   [ 52/100] ✓ NAB    CapHist: 31 events
+2026-09-28 16:43:02,292 [INFO]   [ 53/100] ✓ NKG    CapHist: 20 events
+Parsing dates in %d/%m/%Y format when dayfirst=False (the default) was specified. Pass `dayfirst=True` or specify a format to silence this warning.
+2026-09-28 16:43:03,965 [INFO]   [ 54/100] ✓ NLG    CapHist: 20 events
+Parsing dates in %d/%m/%Y format when dayfirst=False (the default) was specified. Pass `dayfirst=True` or specify a format to silence this warning.
+2026-09-28 16:43:05,634 [INFO]   [ 55/100] ✓ NT2    CapHist: 4 events
+Parsing dates in %d/%m/%Y format when dayfirst=False (the default) was specified. Pass `dayfirst=True` or specify a format to silence this warning.
+2026-09-28 16:43:07,344 [INFO]   [ 56/100] ✓ NVL    CapHist: 31 events
+2026-09-28 16:43:09,043 [INFO]   [ 57/100] ✓ OCB    CapHist: 24 events
+2026-09-28 16:43:10,707 [INFO]   [ 58/100] ✓ PAN    CapHist: 15 events
+2026-09-28 16:43:12,396 [INFO]   [ 59/100] ✓ PC1    CapHist: 19 events
+Parsing dates in %d/%m/%Y format when dayfirst=False (the default) was specified. Pass `dayfirst=True` or specify a format to silence this warning.
+2026-09-28 16:43:14,098 [INFO]   [ 60/100] ✓ PDR    CapHist: 19 events
+Parsing dates in %d/%m/%Y format when dayfirst=False (the default) was specified. Pass `dayfirst=True` or specify a format to silence this warning.
+2026-09-28 16:43:15,778 [INFO]   [ 61/100] ✓ PHR    CapHist: 3 events
+2026-09-28 16:43:17,502 [INFO]   [ 62/100] ✓ PLX    CapHist: 4 events
+Parsing dates in %d/%m/%Y format when dayfirst=False (the default) was specified. Pass `dayfirst=True` or specify a format to silence this warning.
+2026-09-28 16:43:19,217 [INFO]   [ 63/100] ✓ PNJ    CapHist: 21 events
+Parsing dates in %d/%m/%Y format when dayfirst=False (the default) was specified. Pass `dayfirst=True` or specify a format to silence this warning.
+2026-09-28 16:43:20,908 [INFO]   [ 64/100] ✓ POW    CapHist: 4 events
+Parsing dates in %d/%m/%Y format when dayfirst=False (the default) was specified. Pass `dayfirst=True` or specify a format to silence this warning.
+2026-09-28 16:43:22,586 [INFO]   [ 65/100] ✓ PVD    CapHist: 12 events
+Parsing dates in %d/%m/%Y format when dayfirst=False (the default) was specified. Pass `dayfirst=True` or specify a format to silence this warning.
+2026-09-28 16:43:24,261 [INFO]   [ 66/100] ✓ PVT    CapHist: 10 events
+2026-09-28 16:43:25,944 [INFO]   [ 67/100] ✓ REE    CapHist: 16 events
+Parsing dates in %d/%m/%Y format when dayfirst=False (the default) was specified. Pass `dayfirst=True` or specify a format to silence this warning.
+2026-09-28 16:43:27,639 [INFO]   [ 68/100] ✓ SAB    CapHist: 2 events
+Parsing dates in %d/%m/%Y format when dayfirst=False (the default) was specified. Pass `dayfirst=True` or specify a format to silence this warning.
+2026-09-28 16:43:29,350 [INFO]   [ 69/100] ✓ SBT    CapHist: 13 events
+Parsing dates in %d/%m/%Y format when dayfirst=False (the default) was specified. Pass `dayfirst=True` or specify a format to silence this warning.
+2026-09-28 16:43:31,054 [INFO]   [ 70/100] ✓ SHB    CapHist: 17 events
+2026-09-28 16:43:32,738 [INFO]   [ 71/100] ✓ SIP    CapHist: 12 events
+Parsing dates in %d/%m/%Y format when dayfirst=False (the default) was specified. Pass `dayfirst=True` or specify a format to silence this warning.
+2026-09-28 16:43:34,421 [INFO]   [ 72/100] ✓ SJS    CapHist: 6 events
+2026-09-28 16:43:36,133 [INFO]   [ 73/100] ✓ SSB    CapHist: 24 events
+2026-09-28 16:43:37,816 [INFO]   [ 74/100] ✓ SSI    CapHist: 35 events
+Parsing dates in %d/%m/%Y format when dayfirst=False (the default) was specified. Pass `dayfirst=True` or specify a format to silence this warning.
+2026-09-28 16:43:39,496 [INFO]   [ 75/100] ✓ STB    CapHist: 9 events
+2026-09-28 16:43:41,208 [INFO]   [ 76/100] ✓ TAL    CapHist: 16 events
+2026-09-28 16:43:42,917 [INFO]   [ 77/100] ✓ TCB    CapHist: 29 events
+Parsing dates in %d/%m/%Y format when dayfirst=False (the default) was specified. Pass `dayfirst=True` or specify a format to silence this warning.
+2026-09-28 16:43:44,632 [INFO]   [ 78/100] ✓ TCH    CapHist: 10 events
+Parsing dates in %d/%m/%Y format when dayfirst=False (the default) was specified. Pass `dayfirst=True` or specify a format to silence this warning.
+2026-09-28 16:43:46,297 [INFO]   [ 79/100] ✓ TCX    CapHist: 14 events
+Parsing dates in %d/%m/%Y format when dayfirst=False (the default) was specified. Pass `dayfirst=True` or specify a format to silence this warning.
+2026-09-28 16:43:47,979 [INFO]   [ 80/100] ✓ TPB    CapHist: 10 events
+Parsing dates in %d/%m/%Y format when dayfirst=False (the default) was specified. Pass `dayfirst=True` or specify a format to silence this warning.
+2026-09-28 16:43:49,661 [INFO]   [ 81/100] ✓ VCB    CapHist: 11 events
+2026-09-28 16:43:51,368 [INFO]   [ 82/100] ✓ VCG    CapHist: 8 events
+Parsing dates in %d/%m/%Y format when dayfirst=False (the default) was specified. Pass `dayfirst=True` or specify a format to silence this warning.
+2026-09-28 16:43:53,077 [INFO]   [ 83/100] ✓ VCI    CapHist: 21 events
+Parsing dates in %d/%m/%Y format when dayfirst=False (the default) was specified. Pass `dayfirst=True` or specify a format to silence this warning.
+2026-09-28 16:43:54,765 [INFO]   [ 84/100] ✓ VCK    CapHist: 8 events
+Could not infer format, so each element will be parsed individually, falling back to `dateutil`. To ensure parsing is consistent and as-expected, please specify a format.
+2026-09-28 16:43:56,428 [INFO]   [ 85/100] ✓ VGC    CapHist: 4 events
+Parsing dates in %d/%m/%Y format when dayfirst=False (the default) was specified. Pass `dayfirst=True` or specify a format to silence this warning.
+2026-09-28 16:43:58,140 [INFO]   [ 86/100] ✓ VHC    CapHist: 11 events
+Parsing dates in %d/%m/%Y format when dayfirst=False (the default) was specified. Pass `dayfirst=True` or specify a format to silence this warning.
+2026-09-28 16:43:59,854 [INFO]   [ 87/100] ✓ VHM    CapHist: 5 events
+2026-09-28 16:44:01,601 [INFO]   [ 88/100] ✓ VIB    CapHist: 22 events
+Parsing dates in %d/%m/%Y format when dayfirst=False (the default) was specified. Pass `dayfirst=True` or specify a format to silence this warning.
+2026-09-28 16:44:03,314 [INFO]   [ 89/100] ✓ VIC    CapHist: 24 events
+Parsing dates in %d/%m/%Y format when dayfirst=False (the default) was specified. Pass `dayfirst=True` or specify a format to silence this warning.
+2026-09-28 16:44:04,987 [INFO]   [ 90/100] ✓ VIX    CapHist: 17 events
+Parsing dates in %d/%m/%Y format when dayfirst=False (the default) was specified. Pass `dayfirst=True` or specify a format to silence this warning.
+2026-09-28 16:44:06,664 [INFO]   [ 91/100] ✓ VJC    CapHist: 11 events
+Parsing dates in %d/%m/%Y format when dayfirst=False (the default) was specified. Pass `dayfirst=True` or specify a format to silence this warning.
+2026-09-28 16:44:08,390 [INFO]   [ 92/100] ✓ VND    CapHist: 9 events
+Parsing dates in %d/%m/%Y format when dayfirst=False (the default) was specified. Pass `dayfirst=True` or specify a format to silence this warning.
+2026-09-28 16:44:10,062 [INFO]   [ 93/100] ✓ VNM    CapHist: 14 events
+Parsing dates in %d/%m/%Y format when dayfirst=False (the default) was specified. Pass `dayfirst=True` or specify a format to silence this warning.
+2026-09-28 16:44:11,743 [INFO]   [ 94/100] ✓ VPB    CapHist: 28 events
+2026-09-28 16:44:13,436 [INFO]   [ 95/100] ✓ VPI    CapHist: 11 events
+Parsing dates in %d/%m/%Y format when dayfirst=False (the default) was specified. Pass `dayfirst=True` or specify a format to silence this warning.
+2026-09-28 16:44:15,115 [INFO]   [ 96/100] ✓ VPL    CapHist: 23 events
+Parsing dates in %d/%m/%Y format when dayfirst=False (the default) was specified. Pass `dayfirst=True` or specify a format to silence this warning.
+2026-09-28 16:44:16,801 [INFO]   [ 97/100] ✓ VPX    CapHist: 6 events
+Could not infer format, so each element will be parsed individually, falling back to `dateutil`. To ensure parsing is consistent and as-expected, please specify a format.
+2026-09-28 16:44:18,492 [INFO]   [ 98/100] ✓ VRE    CapHist: 13 events
+Parsing dates in %d/%m/%Y format when dayfirst=False (the default) was specified. Pass `dayfirst=True` or specify a format to silence this warning.
+2026-09-28 16:44:20,169 [INFO]   [ 99/100] ✓ VSC    CapHist: 18 events
+2026-09-28 16:44:21,874 [INFO]   [100/100] ✓ VTP    CapHist: 15 events
+2026-09-28 16:44:23,389 [INFO] Fetching Financials (Assets, OP components)...
+2026-09-28 16:44:24,989 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:44:24,990 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:44:25,369 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:44:25,369 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:44:25,377 [INFO]   [  1/100] ✓ ACB    Fin: 8 yrs
+2026-09-28 16:44:28,132 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:44:28,132 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 16:44:28,671 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:44:28,671 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:44:28,678 [INFO]   [  2/100] ✓ ANV    Fin: 8 yrs
+2026-09-28 16:44:31,093 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:44:31,093 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 16:44:31,433 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:44:31,433 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:44:31,445 [INFO]   [  3/100] ✓ BAF    Fin: 7 yrs
+2026-09-28 16:44:33,842 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:44:33,842 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 16:44:34,233 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:44:34,234 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:44:34,247 [INFO]   [  4/100] ✓ BCM    Fin: 8 yrs
+2026-09-28 16:44:36,599 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:44:36,599 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:44:37,020 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:44:37,020 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:44:37,034 [INFO]   [  5/100] ✓ BID    Fin: 8 yrs
+2026-09-28 16:44:39,471 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:44:39,471 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 16:44:39,840 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:44:39,840 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:44:39,853 [INFO]   [  6/100] ✓ BMP    Fin: 8 yrs
+2026-09-28 16:44:42,333 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:44:42,333 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 16:44:42,741 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:44:42,741 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:44:42,756 [INFO]   [  7/100] ✓ BSI    Fin: 8 yrs
+2026-09-28 16:44:45,148 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:44:45,148 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 16:44:45,529 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:44:45,529 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:44:45,541 [INFO]   [  8/100] ✓ BSR    Fin: 8 yrs
+2026-09-28 16:44:48,008 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:44:48,008 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 16:44:48,389 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:44:48,390 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:44:48,404 [INFO]   [  9/100] ✓ BVH    Fin: 8 yrs
+2026-09-28 16:44:50,989 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:44:50,989 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 16:44:51,380 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:44:51,380 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:44:51,393 [INFO]   [ 10/100] ✓ BWE    Fin: 8 yrs
+2026-09-28 16:44:53,755 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:44:53,755 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 16:44:54,136 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:44:54,136 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:44:54,150 [INFO]   [ 11/100] ✓ CII    Fin: 8 yrs
+2026-09-28 16:44:56,589 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:44:56,589 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 16:44:56,925 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:44:56,925 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:44:56,939 [INFO]   [ 12/100] ✓ CMG    Fin: 8 yrs
+2026-09-28 16:44:59,287 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:44:59,288 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 16:44:59,842 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:44:59,842 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:44:59,855 [INFO]   [ 13/100] ✓ CTD    Fin: 8 yrs
+2026-09-28 16:45:03,092 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:45:03,093 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:45:03,492 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:45:03,492 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:45:03,506 [INFO]   [ 14/100] ✓ CTG    Fin: 8 yrs
+2026-09-28 16:45:05,884 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:45:05,884 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 16:45:06,235 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:45:06,235 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:45:06,248 [INFO]   [ 15/100] ✓ CTR    Fin: 8 yrs
+2026-09-28 16:45:37 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 16:45:37,966 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 16:46:09 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 16:46:09,970 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 16:46:12,767 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:46:12,768 [INFO] Loaded 162 built-in KBS field mappings
+Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+2026-09-28 16:46:42 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 16:46:42,838 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 16:47:15 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 16:47:15,388 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 16:47:17,839 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:47:17,839 [INFO] Loaded 162 built-in KBS field mappings
+2026-09-28 16:47:17,855 [INFO]   [ 16/100] ✓ CTS    Fin: 8 yrs
+2026-09-28 16:47:50 - vnstock.core.utils.client - ERROR - API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-09-28 16:47:50,074 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
